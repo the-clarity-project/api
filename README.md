@@ -69,7 +69,7 @@
 ```
 
 #### /edr.search
-Поиск по ЕГРПОУ.
+Поиск по ЕГРПОУ и ФОП.
 
 Например: /api/edr.search?q=фоп
 
@@ -147,6 +147,34 @@ GET-параметры:
 
 #### /edr.relations/*ЕГРПОУ*
 Возвращает связи для ЕГРПОУ.
+
+#### /fop.byname/*ФИО*
+Возвращает список ФОП по точному совпадению имени, для поиска используйте метод **edr.search**.
+Например: [https://clarity-project.info/api/fop.byname/КОВАЛЕНКО ЛІДІЯ ГЕОРГІЇВНА](https://clarity-project.info/api/fop.byname/КОВАЛЕНКО ЛІДІЯ ГЕОРГІЇВНА).
+```
+  "list": [
+    {
+      "FopID": "0000d5c6dc9ea5957e98b6b27c3da3bc",
+      "Name": "КОВАЛЕНКО ЛІДІЯ ГЕОРГІЇВНА",
+      "Status": "registered",
+      "Locality": "МИКОЛАЇВ",
+      "Region": "МИКОЛАЇВСЬКА область",
+      "StatusName": "Зареєстровано"
+    },
+    {
+      "FopID": "ea651a0a22f404c58a2c562f130f2734",
+      "Name": "КОВАЛЕНКО ЛІДІЯ ГЕОРГІЇВНА",
+      "Status": "terminated",
+      "Locality": "СУМИ",
+      "Region": "СУМСЬКА область",
+      "StatusName": "Припинено"
+    }
+  ],
+```
+
+#### /fop.info/*ID*
+Возвращает информацию о ФОП по его айди (FopID).
+Например: https://clarity-project.info/api/fop.info/0000d5c6dc9ea5957e98b6b27c3da3bc
 
 #### /tender.ids?ids=*список*
 Например: https://clarity-project.info/api/tender.ids?ids=2e185eb98c8145e4bc09bc7ee84b219e,UA-2018-11-28-001814-c
