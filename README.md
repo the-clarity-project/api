@@ -150,7 +150,7 @@ GET-параметры:
 
 #### /fop.byname/*ФИО*
 Возвращает список ФОП по точному совпадению имени, для поиска используйте метод **edr.search**.
-Например: [https://clarity-project.info/api/fop.byname/КОВАЛЕНКО%20ЛІДІЯ%20ГЕОРГІЇВНА](https://clarity-project.info/api/fop.byname/КОВАЛЕНКО ЛІДІЯ ГЕОРГІЇВНА).
+Например: [https://clarity-project.info/api/fop.byname/КОВАЛЕНКО ЛІДІЯ ГЕОРГІЇВНА](https://clarity-project.info/api/fop.byname/КОВАЛЕНКО%20ЛІДІЯ%20ГЕОРГІЇВНА).
 ```
   "list": [
     {
