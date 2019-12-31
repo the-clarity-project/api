@@ -36,8 +36,9 @@
    * **tenders** - количество и планируемая сумма всех органиованных тендеров;
    * **contracts** - количество и сумма подписанных контрактов;
 * **tenderer_stats** - статистика учатника. Отсутствует, если **isTenderer**=false;
-   * **participations** - количество и сумма учатий в закупках;
+   * **participations** - количество и сумма участий в закупках;
    * **bids** - количество предложений в конкурентных закупках;
+   * **awards** - количество акцептов;
    * **contracts** - количество и сумма подписанных контрактов;
 
 **ВАЖНО**:
@@ -174,7 +175,7 @@ GET-параметры:
 
 #### /fop.info/*ID*
 Возвращает информацию о ФОП по его айди (FopID).
-Например: https://clarity-project.info/api/fop.info/0000d5c6dc9ea5957e98b6b27c3da3bc
+Например: https://clarity-project.info/api/fop.info/6c6f1f8f0050960f4e2f861352ca94e8
 
 #### /tender.ids?ids=*список*
 Например: https://clarity-project.info/api/tender.ids?ids=2e185eb98c8145e4bc09bc7ee84b219e,UA-2018-11-28-001814-c
