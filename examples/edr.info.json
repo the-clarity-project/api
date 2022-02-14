@@ -1,0 +1,214 @@
+{
+  "edr": "14360570",
+  "name": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК \"ПРИВАТБАНК\"",
+  "address": {
+    "postal": "01001",
+    "country": "Україна",
+    "region": "м. Київ",
+    "region_code": "kvm",
+    "locality": "м. Київ",
+    "address": "ВУЛИЦЯ ГРУШЕВСЬКОГО будинок 1Д"
+  },
+  "contact": {
+    "name": "Сергій Миколайович Макаренко",
+    "email": "",
+    "phone": "+380737161131",
+    "fax": "",
+    "web": ""
+  },
+  "edr_data": {
+    "edr": "14360570",
+    "name": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК \"ПРИВАТБАНК\"",
+    "shortName": "АТ КБ \"ПРИВАТБАНК\"",
+    "postalCode": "01001",
+    "address": "М. КИЇВ, ВУЛ. ГРУШЕВСЬКОГО, БУД. 1Д",
+    "address_parts": {
+      "hash": "aca73d9c3dd40683909351fc06df0226",
+      "full_address": "01001, М. КИЇВ, ВУЛ. ГРУШЕВСЬКОГО, БУД. 1Д",
+      "formatted_address": "01001, місто КИЇВ, вулиця ГРУШЕВСЬКОГО, будинок 1-Д",
+      "postal_code": "01001",
+      "region": "",
+      "district": "",
+      "locality": "КИЇВ",
+      "localityType": "місто",
+      "street": "ГРУШЕВСЬКОГО",
+      "streetType": "вулиця",
+      "building": "1-Д",
+      "buildingType": "будинок",
+      "structure": "",
+      "structureType": "",
+      "apartment": "",
+      "apartmentType": ""
+    },
+    "status": "registered",
+    "statusName": "Зареєстровано",
+    "capital": "206059743960.00",
+    "director": null,
+    "activity": [
+      {
+        "IsMain": "1",
+        "ID": "64.19",
+        "Name": "Інші види грошового посередництва"
+      },
+      {
+        "IsMain": "0",
+        "ID": "64.92",
+        "Name": "Інші види кредитування"
+      },
+      {
+        "IsMain": "0",
+        "ID": "64.99",
+        "Name": "Надання інших фінансових послуг (крім страхування та пенсійного забезпечення), н.в.і.у."
+      },
+      {
+        "IsMain": "0",
+        "ID": "66.11",
+        "Name": "Управління фінансовими ринками"
+      },
+      {
+        "IsMain": "0",
+        "ID": "66.12",
+        "Name": "Посередництво за договорами по цінних паперах або товарах"
+      },
+      {
+        "IsMain": "0",
+        "ID": "66.19",
+        "Name": "Інша допоміжна діяльність у сфері фінансових послуг, крім страхування та пенсійного забезпечення"
+      }
+    ],
+    "founders": [
+      {
+        "Edr": "14360570",
+        "FounderEdr": null,
+        "Address": "",
+        "Capital": "206059743960.00",
+        "CapitalPart": 100,
+        "FounderType": "other",
+        "Name": "Єдиним Акціонером Банку, Якому Належить 100% Акцій Банку, Є Держава"
+      }
+    ],
+    "beneficiaries": [
+    ],
+    "predecessors": [
+    ],
+    "branches": [
+    ],
+    "updated": "1641810506",
+    "created": "1610702599",
+    "contacts": [
+      "380567896614",
+      "143605704909450",
+      "380567353282"
+    ],
+    "signers": [
+      {
+        "Name": "БЬОШ ГЕРХАРД",
+        "Type": "signer",
+        "Limit": "керівник"
+      },
+      {
+        "Name": "ЯРМОЛЕНКО ВАЛЕНТИНА ВАСИЛІВНА",
+        "Type": "signer",
+        "Limit": "представник"
+      }
+    ],
+    "registration": {
+      "Date": "700956000",
+      "Number": "12241200000006727"
+    },
+    "termination": null
+  },
+  "updated": "1642002121",
+  "business_scale": "mid",
+  "business_scale_name": "Суб'єкт середнього підприємництва",
+  "isTenderer": true,
+  "isBuyer": true,
+  "history": 4584,
+  "licenses_count": 67,
+  "vat": {
+    "VatNumber": "143605704021",
+    "Name": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК ПРИВАТБАНК\"\"",
+    "DfsCode": "0402",
+    "RegDate": "1997-07-07",
+    "CancelDate": null,
+    "CancelReason": null,
+    "CancelOperation": null,
+    "Updated": "2021-07-23 03:40:15",
+    "Created": "2021-07-23 03:40:15"
+  },
+  "tax_debt": {
+    "value_total": 374.24,
+    "value_local": 374.24,
+    "value_national": 0,
+    "updated": "1621853359"
+  },
+  "tenderer_stats": {
+    "participations": {
+      "Count": 6095,
+      "Value": 346539693.66999996,
+      "ActiveCount": 6022,
+      "ActiveValue": 322410414.29999995
+    },
+    "bids": "16",
+    "awards": {
+      "Count": 6052,
+      "Value": 329578948.41,
+      "ActiveCount": 6001,
+      "ActiveValue": 314290894.3
+    },
+    "contracts": {
+      "Count": 5782,
+      "Value": 285560417.12,
+      "Paid": 41068246.36,
+      "ActiveCount": 5782,
+      "ActiveValue": 285560417.12,
+      "ActivePaid": 41068246.36
+    },
+    "active_contracts": {
+      "limited": {
+        "Method": "limited",
+        "Count": "4592",
+        "Value": "236412421.04",
+        "MethodName": "Неконкурентні"
+      },
+      "open": {
+        "Method": "open",
+        "Count": "1",
+        "Value": "7671488.19",
+        "MethodName": "Конкурентні"
+      }
+    }
+  },
+  "buyer_stats": {
+    "tenders": {
+      "Count": "276",
+      "Value": "2055046189.52"
+    },
+    "contracts": {
+      "Count": 291,
+      "Value": 1656087275.27,
+      "Paid": 0,
+      "ActiveCount": 291,
+      "ActiveValue": 1656087275.27,
+      "ActivePaid": 0
+    }
+  },
+  "treasury_stats": {
+    "payer": {
+      "Amount": 4804.9,
+      "Count": 7
+    },
+    "payee": {
+      "Amount": 455526961538.06,
+      "Count": 8864376
+    }
+  },
+  "stats": {
+    "query_time": 0.005978107452392578
+  },
+  "quota": {
+    "used": 1,
+    "max": -1,
+    "key_used": 1
+  }
+}
