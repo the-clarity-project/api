@@ -107,30 +107,13 @@ https://com.clarityapp.pro/api/edr.info/14360570?key=xxx,
     * **participations** - участі в закупівлях;
     * **awards** - перемоги;
     * **contracts** - контракти;
+* **owned** - інформація про власність:
+    * **vehicle** - кількість автомобілів у користуванні;
 * **buyer_stats** - інформація про замовника Prozorro;
 * **treasury_stats** - інформація про транзакції Казначейства:
     * **payer, payee** - сума та кількість транзакція як платник та отримувач коштів відповідно; 
 
 **[1]** - в цих полях повертається інформація з системи Prozorro, якщо вона доступна для запитуваної ю/о.
-
-**Метод також підтримує** можливість запиту одразу за переліком кодів (до 25 кодів на запит).
-Для цього необхідно передати коди через кому, наприклад: **/api/edr.info/35601826,0987654321**.
-
-В цьому випадку сервер у ключі **list** поверне результати по кожному коду або null, якщо інформація по коду не знайдена.
-Наприклад: 
-
-```json
-{
-  "list": {
-    "35601826": {
-      "edr": "35601826",
-      "name": "ТОВ \"КОНТРАКТ ПРОДРЕЗЕРВ 5\"",
-      // ...
-    },
-    "0987654321": null
-  }
-}
-```
 
 ## edr.info/licenses
 
@@ -257,6 +240,54 @@ https://com.clarityapp.pro/api/edr.info/26510514/treasury?key=xxxx,
     * **Date** - рік та місяць;
     * **PayerAmount, PayerCount** - сума та кількість транзакцій, де ю/о платник;
     * **PayeeAmount, PayeeCount** - сума та кількість транзакцій, де ю/о отримувач коштів;
+
+
+## edr.info/vehicles
+
+Метод повертає інформацію автотранспорт у користуванні за кодом ЄДРПОУ.
+
+##### Приклад запиту:
+https://com.clarityapp.pro/api/edr.info/14360570/vehicles?key=xxx,
+де **14360570** - код за ЄДРПОУ.
+
+##### Приклад відповіді:
+```json
+{
+  "entity": {
+    "edr": "14332102"
+  },
+  "vehicles": [
+    {
+      "LicenseIssue": "2007-03-06",
+      "LicenseStart": "2007-03-01",
+      "LicenseEnd": "2012-02-29",
+      "LicenseStatus": "Недійсна",
+      "VehicleCert": "Тимчасовий реєстраційний талон",
+      "VehicleStatus": "Звичайний",
+      "VehicleType": "Фургон",
+      "VehicleNum": "АА6737АН",
+      "VehicleVendor": "Марка?",
+      "VehicleModel": "Volkswagen Caddy SDI",
+      "VehicleLoad": "0",
+      "VehicleSeats": null,
+      "VehicleYear": "2005",
+      "VINCode": null,
+      "Updated": 1541760645,
+      "Created": 1548321270
+    }, 
+    // ...
+  ]
+}
+```
+##### Опис полів:
+* **LicenseIssue**, **LicenseStart**, **LicenseEnd** - дати видачі, початку і закінчення дії ліцензії;
+* **LicenseStatus** - стан ліцензії;
+* **VehicleType** - тип авто; 
+* **VehicleNum** - реєстраційний номер;
+* **VehicleVendor**, **VehicleModel** - виробник і марка; 
+* **VehicleYear** - рік випуску;
+* **VINCode** - vin-код;
+* **Updated**, **Created** - дати (unix-timestamp) останнього оновлення і створення запису; 
 
 ## edr.history
 
