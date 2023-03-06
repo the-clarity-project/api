@@ -158,6 +158,7 @@ https://com.clarityapp.pro/api/tender.search?more_fields=edrs,contracts&key=xxx
 * **lots** - інформація про лоти закупівлі;
 * **items** - предмети закупівлі;
 * **bids** - пропозиції;
+* **cancellations** - інформація про скасування закупівлі або її лотів;
 * **awards** - визначення переможця;
 * **contracts** - договір;
 * **qualifications** - прекваліфікації;
