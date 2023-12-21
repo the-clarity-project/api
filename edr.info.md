@@ -12,7 +12,7 @@
 * **page** - сторінка результатів;
 
 ##### Приклад запиту:
-[https://com.clarityapp.pro/api/edr.search/?q=дп прозорро?key=xxx]()
+[https://clarity-project.info/api/edr.search/?q=дп прозорро?key=xxx]()
 
 ##### Приклад відповіді:
 ```json
@@ -56,7 +56,7 @@
 **Важливо:** інформація за кодом РНОКПП доступна лише для ФОП-учасників закупівель Prozorro.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/edr.info/14360570?key=xxx,
+https://clarity-project.info/api/edr.info/14360570?key=xxx,
 де **14360570** - код за ЄДРПОУ.
 
 ##### Приклад відповіді: 
@@ -121,7 +121,7 @@ https://com.clarityapp.pro/api/edr.info/14360570?key=xxx,
 Метод повертає інформацію про наявні ліцензії за кодом ЄДРПОУ.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/edr.info/14360570/licenses?key=xxx,
+https://clarity-project.info/api/edr.info/14360570/licenses?key=xxx,
 де **14360570** - код за ЄДРПОУ.
 
 ##### Приклад відповіді:
@@ -147,7 +147,7 @@ https://com.clarityapp.pro/api/edr.info/14360570/licenses?key=xxx,
 Метод повертає інформацію про пов'язаних фізичних осіб.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/edr.info/14360570/persons?key=xxx,
+https://clarity-project.info/api/edr.info/14360570/persons?key=xxx,
 де **14360570** - код за ЄДРПОУ.
 
 **Додаткові параметри:**
@@ -201,7 +201,7 @@ https://com.clarityapp.pro/api/edr.info/14360570/persons?key=xxx,
 Метод повертає інформацію про транзакції Казначейства.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/edr.info/26510514/treasury?key=xxxx,
+https://clarity-project.info/api/edr.info/26510514/treasury?key=xxxx,
 де **26510514** - код за ЄДРПОУ.
 
 ##### Приклад відповіді:
@@ -248,7 +248,7 @@ https://com.clarityapp.pro/api/edr.info/26510514/treasury?key=xxxx,
 Метод повертає інформацію автотранспорт у користуванні за кодом ЄДРПОУ.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/edr.info/14360570/vehicles?key=xxx,
+https://clarity-project.info/api/edr.info/14360570/vehicles?key=xxx,
 де **14360570** - код за ЄДРПОУ.
 
 ##### Приклад відповіді:
@@ -299,7 +299,7 @@ https://com.clarityapp.pro/api/edr.info/14360570/vehicles?key=xxx,
 **Зверніть увагу:** формат запитів та відповідей для цього методу буде змінено в майбутньому.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/edr.history/02147629?key=xxx,
+https://clarity-project.info/api/edr.history/02147629?key=xxx,
 де **02147629** - код за ЄДРПОУ.
 
 ##### Приклад відповіді:
@@ -352,7 +352,7 @@ https://com.clarityapp.pro/api/edr.history/02147629?key=xxx,
 
 ##### Приклад запиту:
 
-https://com.clarityapp.pro/api/edr.relations/35601826?key=xxxx,
+https://clarity-project.info/api/edr.relations/35601826?key=xxxx,
 де **35601826** - код за ЄДРПОУ.
 
 ##### Приклад відповіді:

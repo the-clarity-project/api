@@ -9,7 +9,7 @@
 Метод дозволяє перетворювати між собою `hash` та `UA-...` ідентифікатори закупівель.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/tender.ids?ids=UA-2018-07-23-000245-b,30552368575d47e689ed2cdcb1cedb8f&key=xxx
+https://clarity-project.info/api/tender.ids?ids=UA-2018-07-23-000245-b,30552368575d47e689ed2cdcb1cedb8f&key=xxx
 
 У параметрі ``ids`` передаються ідентифікатори (`UA-...` або hash) через кому, до 10 за один запит.
 
@@ -35,7 +35,7 @@ https://com.clarityapp.pro/api/tender.ids?ids=UA-2018-07-23-000245-b,30552368575
 Метод дозволяю шукати закупівлі за обраними критеріями.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/tender.search?key=xxx
+https://clarity-project.info/api/tender.search?key=xxx
 
 ### Пошукові критерії
 
@@ -152,7 +152,7 @@ https://com.clarityapp.pro/api/tender.search?key=xxx
 *Можливо*, це зміниться в майбутньому. 
 
 **Приклад запиту:**
-https://com.clarityapp.pro/api/tender.search?more_fields=edrs,contracts&key=xxx
+https://clarity-project.info/api/tender.search?more_fields=edrs,contracts&key=xxx
 
 **Опис можливих параметрів:**
 * **edrs** - інформація про учасників і замовника;

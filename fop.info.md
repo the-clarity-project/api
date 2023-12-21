@@ -14,14 +14,14 @@
 Метод повертає **актуальну** інформацію про ФОП за його РНОКПП.
 
 ##### Приклад запиту:
-[https://com.clarityapp.pro/api/fop.bycode/1234567890?key=xxx]()
+[https://clarity-project.info/api/fop.bycode/1234567890?key=xxx]()
 
 ## fop.byname
 
 Метод повертає перелік ФОП за **точним співпадінням** по ПІБ.
 
 ##### Приклад запиту:
-[https://com.clarityapp.pro/api/fop.byname/ГОНЧАРУК ОЛЕКСІЙ ВАЛЕРІЙОВИЧ?key=xxx]()
+[https://clarity-project.info/api/fop.byname/ГОНЧАРУК ОЛЕКСІЙ ВАЛЕРІЙОВИЧ?key=xxx]()
 
 ##### Приклад відповіді:
 ```json
@@ -59,7 +59,7 @@
 Повертає **історичну** інформацію про ФОП за його внутрішнім ідентифікатором.
 
 ##### Приклад запиту:
-https://com.clarityapp.pro/api/fop.info/c0a7d2d26cfc02758f1492aab0fca287?key=xxx
+https://clarity-project.info/api/fop.info/c0a7d2d26cfc02758f1492aab0fca287?key=xxx
 
 ##### Приклад відповіді:
 [examples/fop.info.json]()
