@@ -12,7 +12,7 @@
 * **page** - сторінка результатів;
 
 ##### Приклад запиту:
-[https://clarity-project.info/api/edr.search/?q=дп прозорро?key=xxx]()
+[https://clarity-project.info/api/edr.search/?q=дп прозорро&key=xxx]()
 
 ##### Приклад відповіді:
 ```json
