@@ -146,6 +146,7 @@ https://clarity-project.info/api/edr.info/14360570?key=xxx,
     * **participations** - участі в закупівлях;
     * **awards** - перемоги;
     * **contracts** - контракти;
+* **available_finances** - список періодів, за які наявні фінансови звіти компанії (див. метод [edr.finances](edr.finances.md));
 * **owned** - інформація про власність:
     * **vehicle** - кількість автомобілів у користуванні;
 * **buyer_stats** - інформація про замовника Prozorro;
