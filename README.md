@@ -54,6 +54,9 @@
 * **[edr.history](edr.info.md#edrhistory)** - повертає історію змін;
 * **[edr.relations](edr.info.md#)** - повертає зв'язки;
 
+#### Податки
+* **[tax.info/{edrpou}](tax.info.md)** - повертає інформацію про платника податків за кодом ЄДРПОУ/РНОКПП;
+
 #### ФОП
 * **[fop.byname](fop.info.md#fopbyname)** - повертає перелік ФОП за точним збігом по ПІБ;
 * **[fop.info](fop.info.md#fopinfo)** - повертає інформацію по ФОП за його id;

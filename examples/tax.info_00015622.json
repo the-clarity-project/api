@@ -1,0 +1,46 @@
+{
+  "single_tax": null,
+  "vat": [
+    {
+      "id": "43513f607f58fb6757124064090b27ff",
+      "edrpou": "00015622",
+      "vat_number": "000156226557",
+      "name": "МІНІСТЕРСТВО ЮСТИЦІЇ УКРАЇНИ",
+      "name_hash": "ee41805a3b0c5a2c89188defe342b60e",
+      "sfs_code": "2655",
+      "reg_date": "2013-02-07",
+      "cancel_date": "2016-02-10",
+      "special_reg_date": null,
+      "special_cancel_date": null,
+      "cancel_reason": "обсяги продажу товарiв < нiж визначенi у Кодексi",
+      "cancel_operation": "Анульовано за iнiцiативою платника",
+      "hash": "eb26fddb3044d326140e286542e48077",
+      "updated_at": "2024-09-15 13:35:29",
+      "created_at": "2024-09-13 16:39:16"
+    }
+  ],
+  "non_profit": {
+    "edrpou": "00015622",
+    "sfs_edrpou": "44116011",
+    "reg_date": "1998-07-10",
+    "non_profit_code": "0031",
+    "non_profit_date": "2016-09-22",
+    "non_profit_change_date": "2016-09-22",
+    "decision_num": "211",
+    "decision_date": "2016-09-22",
+    "decision_descr": "присвоєння ознаки неприбутковостi",
+    "cancellation_date": null,
+    "created_at": "2024-09-13 16:39:16",
+    "updated_at": "2024-09-15 13:35:29",
+    "non_profit_code_name": "бюджетні установи",
+    "sfs_name": "ГОЛОВНЕ УПРАВЛІННЯ ДПС У М.КИЄВІ"
+  },
+  "stats": {
+    "query_time": 0.05849194526672363,
+    "quota": {
+      "used": 21679533,
+      "max": -1,
+      "key_used": 4694014
+    }
+  }
+}

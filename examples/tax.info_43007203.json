@@ -1,0 +1,43 @@
+{
+  "single_tax": {
+    "edrpou": "43007203",
+    "name_hash": "9fd486b6c22c78a19c12aed6f61bc258",
+    "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КЛАРІТІ АПП\"",
+    "rate": 5,
+    "group": 3,
+    "reg_date": "2019-05-17",
+    "apply_date": "2019-05-17",
+    "cancel_date": "2024-07-01",
+    "hash": "bcbd24f3310acd1264c171a8b7b70f98",
+    "created_at": "2024-09-15 10:55:34",
+    "updated_at": "2024-09-15 11:39:10"
+  },
+  "vat": [
+    {
+      "id": "7de87a8eec501d1676bd5dc377b7dc31",
+      "edrpou": "43007203",
+      "vat_number": "430072026542",
+      "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КЛАРІТІ АПП\"",
+      "name_hash": "9fd486b6c22c78a19c12aed6f61bc258",
+      "sfs_code": "2654",
+      "reg_date": "2024-07-01",
+      "cancel_date": null,
+      "special_reg_date": null,
+      "special_cancel_date": null,
+      "cancel_reason": null,
+      "cancel_operation": "Зареєстровано",
+      "hash": "143f99d2e2dd12443b55d18a5f7b8519",
+      "updated_at": "2024-09-15 11:39:10",
+      "created_at": "2024-09-11 12:39:57"
+    }
+  ],
+  "non_profit": null,
+  "stats": {
+    "query_time": 1.5887730121612549,
+    "quota": {
+      "used": 16,
+      "max": 30000,
+      "key_used": 16
+    }
+  }
+}
