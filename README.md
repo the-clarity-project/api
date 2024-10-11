@@ -66,8 +66,8 @@
 * **[tender.ids](tender.search.md#tenderids)** - пошук ідентифікаторів закупівель;
 
 #### Фізичні особи
-* **persons.search**
-* **persons.info**
+* **[persons.search](persons.search.md#personssearch)** - пошук за ПІБ;
+* **[persons.info](persons.search.md#personsinfo)** - інформація за ПІБ;
 
 #### Інше
 * **treasury.transactions**
