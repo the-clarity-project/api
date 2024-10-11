@@ -1,0 +1,1539 @@
+{
+  "list": {
+    "98e3856b5a0a13c64343b30c74810932": {
+      "name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+      "hash": "98e3856b5a0a13c64343b30c74810932",
+      "edrs": {
+        "": [
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "",
+            "Actual": "0",
+            "Edr": "00703954",
+            "EdrName": "ВАРАСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+            "Locality": "ВОЛОДИМИРЕЦЬ(З)",
+            "LocalityType": "смт",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "",
+            "Actual": "0",
+            "Edr": "24150046",
+            "EdrName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПЛЕКС-ПРОГРЕС\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "contact": [
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "contact",
+            "Actual": "0",
+            "Edr": "00703954",
+            "EdrName": "ВАРАСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+            "Locality": "ВОЛОДИМИРЕЦЬ(З)",
+            "LocalityType": "смт",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "contact",
+            "Actual": "0",
+            "Edr": "3032416490",
+            "EdrName": "Фізична - особа підприємець Мельник Юрій Вікторович",
+            "Locality": null,
+            "LocalityType": null,
+            "EdrStatus": null,
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "contact",
+            "Actual": "1",
+            "Edr": "032416190",
+            "EdrName": "ФОП Мельник Юрій Вікторович",
+            "Locality": null,
+            "LocalityType": null,
+            "EdrStatus": null,
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "contact",
+            "Actual": "1",
+            "Edr": "14000",
+            "EdrName": "ПП \"Перший приватний ЖЕК\"",
+            "Locality": null,
+            "LocalityType": null,
+            "EdrStatus": null,
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "contact",
+            "Actual": "1",
+            "Edr": "1923902471",
+            "EdrName": "Фізична особа-підприємець Мельник Віктор Єфремович",
+            "Locality": null,
+            "LocalityType": null,
+            "EdrStatus": null,
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "contact",
+            "Actual": "1",
+            "Edr": "3032416190",
+            "EdrName": "ФОП \"МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ\"",
+            "Locality": "ЧЕРНІГІВ",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "founder": [
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "founder",
+            "Actual": "0",
+            "Edr": "01557153",
+            "EdrName": "ПІДПРИЄМСТВО СПОЖИВЧОЇ КООПЕРАЦІЇ \"ГОСПРОЗРАХУНКОВЕ ОБ\"ЄДНАННЯ РИНКІВ М.ВІННИЦІ\"",
+            "Locality": "ВІННИЦЯ",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "founder",
+            "Actual": "0",
+            "Edr": "21670650",
+            "EdrName": "МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"СЛАВУТИЧ\"",
+            "Locality": "КИЇВ",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "founder",
+            "Actual": "1",
+            "Edr": "24150046",
+            "EdrName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПЛЕКС-ПРОГРЕС\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "founder",
+            "Actual": "1",
+            "Edr": "33254381",
+            "EdrName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ФІНКОМ-Л\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "founder",
+            "Actual": "1",
+            "Edr": "37867793",
+            "EdrName": "КРАСНООКНЯНСЬКА РАЙОННА ГРОМАДСЬКА ОРГАНІЗАЦІЯ МИСЛИВЦІВ ТА РИБАЛОК \"НІ ПУХА,НІ ПЕРА\"",
+            "Locality": "НОВОСАМАРКА",
+            "LocalityType": "село",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "director": [
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "director",
+            "Actual": "0",
+            "Edr": "24150046",
+            "EdrName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПЛЕКС-ПРОГРЕС\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "director",
+            "Actual": "0",
+            "Edr": "33254381",
+            "EdrName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ФІНКОМ-Л\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "director",
+            "Actual": "1",
+            "Edr": "00703954",
+            "EdrName": "ВАРАСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+            "Locality": "ВОЛОДИМИРЕЦЬ(З)",
+            "LocalityType": "смт",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "signer": [
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "signer",
+            "Actual": "1",
+            "Edr": "00703954",
+            "EdrName": "ВАРАСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+            "Locality": "ВОЛОДИМИРЕЦЬ(З)",
+            "LocalityType": "смт",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "signer",
+            "Actual": "1",
+            "Edr": "24150046",
+            "EdrName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПЛЕКС-ПРОГРЕС\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "signer",
+            "Actual": "1",
+            "Edr": "33254381",
+            "EdrName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ФІНКОМ-Л\"",
+            "Locality": "КІРОВОГРАД(П)",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "fop-name": [
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "fop-name",
+            "Actual": "1",
+            "Edr": "3032416190",
+            "EdrName": "ФОП \"МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ\"",
+            "Locality": "ЧЕРНІГІВ",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "Type": "fop-name",
+            "Actual": "1",
+            "Edr": "3032416490",
+            "EdrName": "Фізична - особа підприємець Мельник Юрій Вікторович",
+            "Locality": null,
+            "LocalityType": null,
+            "EdrStatus": null,
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "0a8370c955769439c6a2bbd7450c58b3",
+            "Locality": "ЧЕРНІГІВ",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "b097c1940b01da5a074e077d5b7044e9",
+            "Locality": "ЯКУШИНЦІ",
+            "LocalityType": "село",
+            "EdrStatus": "registered",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "d87546067fb97015a843142ef0c58319",
+            "Locality": "ЯМПІЛЬ",
+            "LocalityType": "місто",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "d99b518f2cb2663eec10ddc9219965be",
+            "Locality": "БРАТСЬКЕ",
+            "LocalityType": "смт",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "c234cbfff694ee4ad834def5983b35dc",
+            "Locality": "ЛИМАНИ",
+            "LocalityType": "село",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "7d27f6b6480003970393156c83123a71",
+            "Locality": "КИЇВ",
+            "LocalityType": "місто",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "eabf7e3054c54da5c257982fd1e3cd95",
+            "Locality": "ЧЕРКАСИ",
+            "LocalityType": "місто",
+            "EdrStatus": "registered",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "6b4c6061f42665dc2dc92a5476689a94",
+            "Locality": "МАЛАЇВЦІ",
+            "LocalityType": "село",
+            "EdrStatus": "registered",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "3273c03a8ae1694dc6144bf86ddb7488",
+            "Locality": "СВІТЛОВОДСЬК",
+            "LocalityType": "місто",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "43caa707c274fa43f3c49c25dee7ed0f",
+            "Locality": "ВОЛОДИМИР-ВОЛИНСЬКИЙ",
+            "LocalityType": "місто",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "3f5582f776a8414a21e6120108028e06",
+            "Locality": "КОРИСТЬ",
+            "LocalityType": "село",
+            "EdrStatus": "registered",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "f96ebb5737d6888028b753756e2c2936",
+            "Locality": "МУРОВАНІ КУРИЛІВЦІ",
+            "LocalityType": "смт",
+            "EdrStatus": "terminated",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "FopID": "3bf3d7a330824161f94bb1588c9d653f",
+            "Locality": "МИРОЦЬКЕ(З)",
+            "LocalityType": "село",
+            "EdrStatus": "registered",
+            "Type": "fop-name",
+            "Actual": "1",
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "rgf-person": [
+          {
+            "PersonName": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "RgfID": "4b2702b29b30b003a9c73012e3a71b00",
+            "Name": "ГРОМАДСЬКА ОРГАНІЗАЦІЯ \"НИЖНІЙ СТАВ\"",
+            "Type": "rgf-person",
+            "Actual": "1",
+            "EdrStatusName": "Невідомо"
+          }
+        ],
+        "work-place": [
+          {
+            "EdrName": "ВАРАСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "00703954",
+            "Type": "work-place",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "СУМСЬКИЙ МІСЬКИЙ ВІЙСЬКОВИЙ КОМІСАРІАТ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "07695365",
+            "Type": "work-place",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ВІЙСЬКОВА ЧАСТИНА А3335",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "07956411",
+            "Type": "work-place",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ХАРКІВСЬКА МИТНИЦЯ ДФС",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "terminated",
+            "Edr": "39534151",
+            "Type": "work-place",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Припинено"
+          }
+        ],
+        "income": [
+          {
+            "EdrName": "ВАРАСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "00703954",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "СУМСЬКИЙ ОБЛАСНИЙ ВІЙСЬКОВИЙ КОМІСАРІАТ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "unknown",
+            "Edr": "08269552",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "EdrName": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРСИББАНК\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "09807750",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ТОВАРИСТВО З ДОДАТКОВОЮ ВІДПОВІДАЛЬНІСТЮ \"СТРАХОВА КОМПАНІЯ \"КРЕДО\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "13622789",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ГРОМАДСЬКА ОРГАНІЗАЦІЯ \"АСОЦIАЦIЯ СПЕЦIАЛIСТIВ ВЕТЕРИНАРНОЇ МЕДИЦИНИ В РІВНЕНСЬКІЙ ОБЛАСТІ\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "13970007",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ДОЧІРНЄ ПІДПРИЄМСТВО ПРИВАТНОГО АКЦІОНЕРНОГО ТОВАРИСТВА \"СУМБУД\" БУДІВЕЛЬНО-МОНТАЖНЕ ПІДПРИЄМСТВО №4",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "14026492",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК \"ПРИВАТБАНК\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "14360570",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "АКЦІОНЕРНЕ ТОВАРИСТВО \"КРЕДІ АГРІКОЛЬ БАНК\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "14361575",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ВІЙСЬКОВА ЧАСТИНА А1476",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "unknown",
+            "Edr": "24983349",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Невідомо"
+          },
+          {
+            "EdrName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТЕЛЕРАДІОКОМПАНІЯ \"МАЙБУТТЯ\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "33525602",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ХАРКІВСЬКЕ ОБЛАСНЕ ВІДДІЛЕННЯ ВСЕУКРАЇНСЬКОЇ ГРОМАДСЬКОЇ ОРГАНІЗАЦІЇ \"СПІЛКА ВЕТЕРАНІВ МИТНОЇ СЛУЖБИ УКРАЇНИ\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "33818428",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ПЕРВИННА ПРОФСПІЛКОВА ОРГАНІЗАЦІЯ ПРАЦІВНИКІВ ХАРКІВСЬКОЇ МИТНИЦІ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "37188585",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ХАРКІВСЬКА МИТНИЦЯ ДФС",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "terminated",
+            "Edr": "39534151",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Припинено"
+          },
+          {
+            "EdrName": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В РІВНЕНСЬКІЙ ОБЛАСТІ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "40108761",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ДЕПАРТАМЕНТ ЗАХИСТУ ЕКОНОМІКИ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "terminating",
+            "Edr": "40111732",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "В стані припинення"
+          },
+          {
+            "EdrName": "ДЕПАРТАМЕНТ ВНУТРІШНЬОЇ БЕЗПЕКИ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "40116086",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ПЕРВИННА ПРОФСПІЛКОВА ОРГАНІЗАЦІЯ ДЕПАРТАМЕНТУ СТРАТЕГІЧНИХ РОЗСЛІДУВАНЬ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ ВСЕУКРАЇНСЬКОЇ ПРОФСПІЛКИ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "42008756",
+            "Type": "income",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "expenses": [
+          {
+            "EdrName": "АКЦІОНЕРНЕ ТОВАРИСТВО \"КРЕДІ АГРІКОЛЬ БАНК\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "14361575",
+            "Type": "expenses",
+            "Actual": "1",
+            "InProzorro": true,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ],
+        "org-member": [
+          {
+            "EdrName": "ХАРКІВСЬКЕ ОБЛАСНЕ ВІДДІЛЕННЯ ВСЕУКРАЇНСЬКОЇ ГРОМАДСЬКОЇ ОРГАНІЗАЦІЇ \"СПІЛКА ВЕТЕРАНІВ МИТНОЇ СЛУЖБИ УКРАЇНИ\"",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "33818428",
+            "Type": "org-member",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ПЕРВИННА ПРОФСПІЛКОВА ОРГАНІЗАЦІЯ ПРАЦІВНИКІВ ХАРКІВСЬКОЇ МИТНИЦІ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "37188585",
+            "Type": "org-member",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          },
+          {
+            "EdrName": "ПЕРВИННА ПРОФСПІЛКОВА ОРГАНІЗАЦІЯ ДЕПАРТАМЕНТУ СТРАТЕГІЧНИХ РОЗСЛІДУВАНЬ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ ВСЕУКРАЇНСЬКОЇ ПРОФСПІЛКИ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "EdrStatus": "registered",
+            "Edr": "42008756",
+            "Type": "org-member",
+            "Actual": "1",
+            "InProzorro": false,
+            "EdrStatusName": "Зареєстровано"
+          }
+        ]
+      },
+      "declarations": [
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_4a25d696-344d-464d-8f0b-af8b22a56cef",
+          "DeclarationYear": "2015",
+          "WorkPost": "старший слідчий слідчого відділення",
+          "WorkPlace": "Рівненське районне відділення поліції Рівненського відділу поліції Головного управління Національної поліції в Рівненській області",
+          "DeclarantID": "85691",
+          "NazkID": "4a25d696-344d-464d-8f0b-af8b22a56cef"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_1359377c-c75f-495e-9c44-4d9f4a69cb38",
+          "DeclarationYear": "2016",
+          "WorkPost": "Головний державний інспектор митного поста \"Щербаківка\"",
+          "WorkPlace": "Харківська митниця ДФС",
+          "DeclarantID": "189633",
+          "NazkID": "1359377c-c75f-495e-9c44-4d9f4a69cb38"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_140ded96-8cc4-4eba-9561-d79c7267a2d0",
+          "DeclarationYear": "2016",
+          "WorkPost": "старший слідчий слідчого відділення",
+          "WorkPlace": "Рівненське районне відділення поліції Рівненського відділу поліції Головного у правління поліції в Рівненській області",
+          "DeclarantID": "85691",
+          "NazkID": "140ded96-8cc4-4eba-9561-d79c7267a2d0"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_ed02c8bd-e3d0-40d5-b57e-a98f4c4240dd",
+          "DeclarationYear": "2016",
+          "WorkPost": "Начальник служби захисту інформації",
+          "WorkPlace": "Сумський міський військовий комісаріат",
+          "DeclarantID": "963920",
+          "NazkID": "ed02c8bd-e3d0-40d5-b57e-a98f4c4240dd"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_ddde3fec-904f-4c16-a636-3baee0c42f65",
+          "DeclarationYear": "2016",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "ddde3fec-904f-4c16-a636-3baee0c42f65"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_3ea98a03-9241-4d02-941a-a0863caca54d",
+          "DeclarationYear": "2016",
+          "WorkPost": "Інструктор",
+          "WorkPlace": "Військова частина А3335",
+          "DeclarantID": "214430",
+          "NazkID": "3ea98a03-9241-4d02-941a-a0863caca54d"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_e5623ae8-d9eb-4d9a-a385-89d71dd6c861",
+          "DeclarationYear": "2017",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "e5623ae8-d9eb-4d9a-a385-89d71dd6c861"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_2165f4eb-14d9-4c25-b646-372165cf5162",
+          "DeclarationYear": "2017",
+          "WorkPost": "оперуповноважений",
+          "WorkPlace": "Управління захисту економіки в Рівненській області Департаменту захисту економіки Національної поліції України",
+          "DeclarantID": "85691",
+          "NazkID": "2165f4eb-14d9-4c25-b646-372165cf5162"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_21eafc09-23f2-4f59-88ce-dc28d45132ba",
+          "DeclarationYear": "2017",
+          "WorkPost": "Інструктор",
+          "WorkPlace": "Військова частина А3335",
+          "DeclarantID": "214430",
+          "NazkID": "21eafc09-23f2-4f59-88ce-dc28d45132ba"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_dbad1635-40cc-438c-80f4-8058a7d7bbca",
+          "DeclarationYear": "2017",
+          "WorkPost": "Начальник служби захисту інформації",
+          "WorkPlace": "Сумський міський військовий комісаріат",
+          "DeclarantID": "963920",
+          "NazkID": "dbad1635-40cc-438c-80f4-8058a7d7bbca"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_380d10a9-e518-4fad-894e-044b8ba268f8",
+          "DeclarationYear": "2017",
+          "WorkPost": "Головний державний інспектор",
+          "WorkPlace": "Харківська митниця ДФС",
+          "DeclarantID": "189633",
+          "NazkID": "380d10a9-e518-4fad-894e-044b8ba268f8"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_65563aea-2d5a-4828-82b1-81848c00f2e3",
+          "DeclarationYear": "2017",
+          "WorkPost": "Начальник служби захисту інформації",
+          "WorkPlace": "Сумський міський військовий комісаріат",
+          "DeclarantID": "963920",
+          "NazkID": "65563aea-2d5a-4828-82b1-81848c00f2e3"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_50666c2f-d2c9-40ed-9b97-26981f5e3326",
+          "DeclarationYear": "2018",
+          "WorkPost": "оперуповноважений",
+          "WorkPlace": "Управління захисту економіки в Рівненській області Департаменту захисту економіки Національної поліції України",
+          "DeclarantID": "85691",
+          "NazkID": "50666c2f-d2c9-40ed-9b97-26981f5e3326"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_fc61b56e-e686-4285-9719-4919c6740ed9",
+          "DeclarationYear": "2018",
+          "WorkPost": "Головний державний інспектор",
+          "WorkPlace": "Харківська митниця ДФС",
+          "DeclarantID": "189633",
+          "NazkID": "fc61b56e-e686-4285-9719-4919c6740ed9"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_1b3a531d-33bb-4bc9-95a3-7aa312566d19",
+          "DeclarationYear": "2018",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "1b3a531d-33bb-4bc9-95a3-7aa312566d19"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_4f7f3622-b54f-40e7-a332-8d297d730e0b",
+          "DeclarationYear": "2019",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "4f7f3622-b54f-40e7-a332-8d297d730e0b"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_ca6a77c4-90d1-4397-b06e-6ff78004b5a3",
+          "DeclarationYear": "2019",
+          "WorkPost": "Головний спеціаліст - інженер - економіст",
+          "WorkPlace": "Управіння комунального майна та приватизації Департаменту економіки та комунального майна Харківської міської ради",
+          "DeclarantID": "189633",
+          "NazkID": "ca6a77c4-90d1-4397-b06e-6ff78004b5a3"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_eb0327e5-95b1-477b-b22a-2163b9495df6",
+          "DeclarationYear": "2019",
+          "WorkPost": "старший оперуповноважений",
+          "WorkPlace": "Рівненське управління Департаменту внутрішньої безпеки Національної поліції України",
+          "DeclarantID": "85691",
+          "NazkID": "eb0327e5-95b1-477b-b22a-2163b9495df6"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_f15495ea-e0f5-4e8e-8004-b6c2274125e5",
+          "DeclarationYear": "2019",
+          "WorkPost": "Головний державний інспектор",
+          "WorkPlace": "Харківська митниця ДФС",
+          "DeclarantID": "189633",
+          "NazkID": "f15495ea-e0f5-4e8e-8004-b6c2274125e5"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_7f12cc2d-e501-4530-909c-bf46d6ea51e6",
+          "DeclarationYear": "2020",
+          "WorkPost": "заступник начальника відділу",
+          "WorkPlace": "Рівненське управління Департаменту внутрішньої безпеки Національної поліції України",
+          "DeclarantID": "85691",
+          "NazkID": "7f12cc2d-e501-4530-909c-bf46d6ea51e6"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_17129daa-c433-4eae-8f4d-194e43c03419",
+          "DeclarationYear": "2020",
+          "WorkPost": "Головний державний інспектор",
+          "WorkPlace": "Харківська митниця ДФС",
+          "DeclarantID": "189633",
+          "NazkID": "17129daa-c433-4eae-8f4d-194e43c03419"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_12babad3-272f-4142-9416-34ec735af27a",
+          "DeclarationYear": "2020",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "12babad3-272f-4142-9416-34ec735af27a"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_04d00d1d-17cf-44f1-a033-9f3075dfae5a",
+          "DeclarationYear": "2021",
+          "WorkPost": "Головний спеціаліст",
+          "WorkPlace": "УПРАВЛІННЯ КОМУНАЛЬНОГО МАЙНА ТА ПРИВАТИЗАЦІЇ ДЕПАРТАМЕНТУ ЕКОНОМІКИ ТА КОМУНАЛЬНОГО МАЙНА ХАРКІВСЬКОЇ МІСЬКОЇ РАДИ",
+          "DeclarantID": "189633",
+          "NazkID": "04d00d1d-17cf-44f1-a033-9f3075dfae5a"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_c37dcf3a-058a-4a3a-b7b0-090e0bb1f5ad",
+          "DeclarationYear": "2021",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "c37dcf3a-058a-4a3a-b7b0-090e0bb1f5ad"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_2b71b74e-6799-41bf-b445-d6c48c57f34f",
+          "DeclarationYear": "2021",
+          "WorkPost": "заступник начальника відділу Рівненського управління",
+          "WorkPlace": "ДЕПАРТАМЕНТ ВНУТРІШНЬОЇ БЕЗПЕКИ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ",
+          "DeclarantID": "85691",
+          "NazkID": "2b71b74e-6799-41bf-b445-d6c48c57f34f"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_50f16cb5-5901-41d4-a222-7c98c6b2e5b6",
+          "DeclarationYear": "2022",
+          "WorkPost": "заступник начальника відділу Рівненського управління",
+          "WorkPlace": "ДЕПАРТАМЕНТ ВНУТРІШНЬОЇ БЕЗПЕКИ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ",
+          "DeclarantID": "85691",
+          "NazkID": "50f16cb5-5901-41d4-a222-7c98c6b2e5b6"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_a0ac85dc-810d-4b8e-a625-80a296996aec",
+          "DeclarationYear": "2022",
+          "WorkPost": "Начальник",
+          "WorkPlace": "Володимирецька районна державна лікарня ветеринарної медицини",
+          "DeclarantID": "603220",
+          "NazkID": "a0ac85dc-810d-4b8e-a625-80a296996aec"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "DeclarationID": "nacp_155b895d-34d1-44dc-b552-d85ba66a3047",
+          "DeclarationYear": "2022",
+          "WorkPost": "Головний спеціаліст",
+          "WorkPlace": "УПРАВЛІННЯ КОМУНАЛЬНОГО МАЙНА ТА ПРИВАТИЗАЦІЇ ДЕПАРТАМЕНТУ ЕКОНОМІКИ ТА КОМУНАЛЬНОГО МАЙНА ХАРКІВСЬКОЇ МІСЬКОЇ РАДИ",
+          "DeclarantID": "189633",
+          "NazkID": "155b895d-34d1-44dc-b552-d85ba66a3047"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ЛІДІЯ ЯРОСЛАВІВНА",
+          "DeclarationID": "nacp_55338519-823d-49ae-af1c-8a8b8cbd8880",
+          "DeclarationYear": "2016",
+          "WorkPost": "інспектор відділу служби 102 та оперативного інформування управління інформаційної підтримки та координації поліції 102",
+          "WorkPlace": "Головне управління Національної поліції в Рівненській області",
+          "DeclarantID": "815536",
+          "NazkID": "55338519-823d-49ae-af1c-8a8b8cbd8880"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ЛІДІЯ ЯРОСЛАВІВНА",
+          "DeclarationID": "nacp_20396597-197b-493b-b941-8b291a38f961",
+          "DeclarationYear": "2017",
+          "WorkPost": "у розпорядженні",
+          "WorkPlace": "Головне управління Національної поліції в Рівненській області",
+          "DeclarantID": "815536",
+          "NazkID": "20396597-197b-493b-b941-8b291a38f961"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ЛІДІЯ ЯРОСЛАВІВНА",
+          "DeclarationID": "nacp_d73444cf-bf2d-41a5-92c8-911d0dd40551",
+          "DeclarationYear": "2018",
+          "WorkPost": "у розпорядженні",
+          "WorkPlace": "Головне управління Національної поліції в Рівненській області",
+          "DeclarantID": "815536",
+          "NazkID": "d73444cf-bf2d-41a5-92c8-911d0dd40551"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ЛІДІЯ ЯРОСЛАВІВНА",
+          "DeclarationID": "nacp_02de9690-1f85-445d-98e0-f9a5c7b63f7e",
+          "DeclarationYear": "2019",
+          "WorkPost": "інспектор-черговий ситуаційного відділу УОАЗОР",
+          "WorkPlace": "Головне управління Національної поліції в Рівненській області",
+          "DeclarantID": "815536",
+          "NazkID": "02de9690-1f85-445d-98e0-f9a5c7b63f7e"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ТЕТЯНА АНТОНІВНА",
+          "DeclarationID": "nacp_65a4d3c0-c31c-486b-8b20-397bf1412af4",
+          "DeclarationYear": "2020",
+          "WorkPost": "начальник",
+          "WorkPlace": "управління культури виконавчого комітету",
+          "DeclarantID": "2027686",
+          "NazkID": "65a4d3c0-c31c-486b-8b20-397bf1412af4"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ЛІДІЯ ЯРОСЛАВІВНА",
+          "DeclarationID": "nacp_d2893df7-d86c-4b8e-b67c-ccec58892ad6",
+          "DeclarationYear": "2021",
+          "WorkPost": "інспектор відділу УОАЗОР",
+          "WorkPlace": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В РІВНЕНСЬКІЙ ОБЛАСТІ",
+          "DeclarantID": "815536",
+          "NazkID": "d2893df7-d86c-4b8e-b67c-ccec58892ad6"
+        },
+        {
+          "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+          "Relation": "чоловік",
+          "DeclarationName": "МЕЛЬНИК ЛІДІЯ ЯРОСЛАВІВНА",
+          "DeclarationID": "nacp_92f6aebb-29ab-44fa-828b-29edcb268170",
+          "DeclarationYear": "2022",
+          "WorkPost": "старший інспектор відділу УІАП",
+          "WorkPlace": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В РІВНЕНСЬКІЙ ОБЛАСТІ",
+          "DeclarantID": "815536",
+          "NazkID": "92f6aebb-29ab-44fa-828b-29edcb268170"
+        }
+      ],
+      "otherpersons": [
+        {
+          "id": "e934e08b1f5ed9eef9b5159d7256c2e8",
+          "type": "deputy-helper",
+          "type_name": "Помічник депутата",
+          "updated": "1601064990",
+          "created": "1601064990",
+          "data": {
+            "Deputy": "ШУРМА ІГОР МИХАЙЛОВИЧ",
+            "DeputyHash": "d048d0e42d26344f30c9f02b0a313baa",
+            "Link": "\/minion\/326539",
+            "Type": "national",
+            "Conv": 8
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "86779490af1e99825cc04ce1ecbadc98",
+          "type": "deputy-helper",
+          "type_name": "Помічник депутата",
+          "updated": "1601064190",
+          "created": "1601064190",
+          "data": {
+            "Deputy": "СИМОНЕНКО ПЕТРО МИКОЛАЙОВИЧ",
+            "DeputyHash": "547cb2f7256b2c8a90b3703154eb8fd8",
+            "Link": "\/minion\/326539",
+            "Type": "national",
+            "Conv": 7
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "8b818d67407647db74c1cf6f2e7200c9",
+          "type": "fg-debtor",
+          "type_name": "Боржник ФГВФО",
+          "updated": "1585688400",
+          "created": "1585688400",
+          "data": {
+            "Bank": "ПАТ \"КБ \"НАДРА\"",
+            "CourtCase": "504\/1720\/14-ц",
+            "Debt": "17522.97 грн ."
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "20cf2fc6fe4db1e68e95308978751007",
+          "type": "fg-debtor",
+          "type_name": "Боржник ФГВФО",
+          "updated": "1577829600",
+          "created": "1577829600",
+          "data": {
+            "Bank": "ПАТ \"КБ \"НАДРА\"",
+            "CourtCase": "504\/1720\/14-ц",
+            "Debt": "17522.97 грн ."
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "f339bf8a04ed45f31ab463e68b14b52d",
+          "type": "fg-debtor",
+          "type_name": "Боржник ФГВФО",
+          "updated": "1569877200",
+          "created": "1569877200",
+          "data": {
+            "Bank": "ПАТ \"КБ \"НАДРА\"",
+            "CourtCase": "504\/1720\/14-ц",
+            "Debt": "17522.97 грн ."
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "01893cab4517ce74d5219f228dab0a7d",
+          "type": "fg-debtor",
+          "type_name": "Боржник ФГВФО",
+          "updated": "1561928400",
+          "created": "1561928400",
+          "data": {
+            "Bank": "ПАТ \"КБ \"НАДРА\"",
+            "CourtCase": "504\/1720\/14-ц",
+            "Debt": "17522.97 грн ."
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "996c1758658aaaddb7155a42b76219c9",
+          "type": "fg-debtor",
+          "type_name": "Боржник ФГВФО",
+          "updated": "1554066000",
+          "created": "1554066000",
+          "data": {
+            "Bank": "ПАТ \"КБ \"НАДРА\"",
+            "CourtCase": "504\/1720\/14-ц",
+            "Debt": "17522.97 грн ."
+          },
+          "locality": "",
+          "actual": true
+        },
+        {
+          "id": "f5ad5ab5f87b9e6f7f382bc80f0e4688",
+          "type": "fg-debtor",
+          "type_name": "Боржник ФГВФО",
+          "updated": "1551391200",
+          "created": "1551391200",
+          "data": {
+            "Bank": "ПАТ \"КБ \"НАДРА\"",
+            "CourtCase": "504\/1720\/14-ц",
+            "Debt": "17522.97 грн ."
+          },
+          "locality": "",
+          "actual": true
+        }
+      ],
+      "debtInfo": {
+        "erb": [
+          {
+            "order_num": "54573236",
+            "category": "стягнення коштів на користь держави",
+            "publisher": "Вінницький міський суд",
+            "executor": "ШЕНДЕРУК ГАЛИНА ЄВГЕНІЇВНА",
+            "executor_org": "Липовецький районний відділ державної виконавчої служби Головного територіального управління юстиції у Вінницькій області",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1984-11-07",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "73400374",
+            "category": "документ, що не підпадає під згадані категорії",
+            "publisher": "Малиновський районний суд м. Одеси",
+            "executor": "БОНДАРЕВ РОМАН ВОЛОДИМИРОВИЧ",
+            "executor_org": "Приватний виконавець Бондарев Р.В.",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1978-03-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "73400315",
+            "category": "документ, що не підпадає під згадані категорії",
+            "publisher": "Малиновський районний суд м. Одеси",
+            "executor": "БОНДАРЕВ РОМАН ВОЛОДИМИРОВИЧ",
+            "executor_org": "Приватний виконавець Бондарев Р.В.",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1978-03-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "72315797",
+            "category": "документ, що не підпадає під згадані категорії",
+            "publisher": "суддя Приморського районного суду міста Одеси В.В. Андрухів",
+            "executor": "БОНДАРЕВ РОМАН ВОЛОДИМИРОВИЧ",
+            "executor_org": "Приватний виконавець Бондарев Р.В.",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1978-03-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "72032919",
+            "category": "документ, що не підпадає під згадані категорії",
+            "publisher": "суддя Братського районного суду Миколаївської області Гукова І.Б.",
+            "executor": "БОНДАРЕВ РОМАН ВОЛОДИМИРОВИЧ",
+            "executor_org": "Приватний виконавець Бондарев Р.В.",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1978-03-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "71126909",
+            "category": "стягнення у справах про адміністративні правопорушення (крім безпеки дорожнього руху)",
+            "publisher": "ДПП УПП в м.Києві відділ адмін.практики",
+            "executor": "ЄРМАКОВА ОЛЕНА АНАТОЛІЇВНА",
+            "executor_org": "Дарницький відділ державної виконавчої служби у місті Києві Центрального міжрегіонального управління Міністерства юстиції (м. Київ)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1981-02-17",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "71126864",
+            "category": "стягнення у справах про адміністративні правопорушення (крім безпеки дорожнього руху)",
+            "publisher": "ДПП УПП в м.Києві відділ адмін.практики",
+            "executor": "ЯСІНСЬКА ІВАННА ГРИГОРІВНА",
+            "executor_org": "Дарницький відділ державної виконавчої служби у місті Києві Центрального міжрегіонального управління Міністерства юстиції (м. Київ)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1981-02-17",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "70893661",
+            "category": "стягнення судового збору",
+            "publisher": "Жмеринський міськрайонний суд Вінницької обл.",
+            "executor": "РЕДЬКО ЛЮДМИЛА МИКОЛАЇВНА",
+            "executor_org": "Жмеринський відділ державної виконавчої служби у Жмеринському районі Вінницької області Центрального міжрегіонального управління Міністерства юстиції (м.Київ)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1994-07-26",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "67724021",
+            "category": "стягнення коштів",
+            "publisher": "Приватний нотаріус Київського міського нотаріального округу Сазонова Олена Миколаївна",
+            "executor": "ЯРМОЛЕНКО ОЛЕКСАНДР ВАЛЕНТИНОВИЧ",
+            "executor_org": "Приватний виконавець Ярмоленко О.В.",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1973-05-31",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "66998573",
+            "category": "стягнення коштів",
+            "publisher": "Горай О.С.",
+            "executor": "ЗАСЯДЬКО АЛІНА В'ЯЧЕСЛАВІВНА",
+            "executor_org": "Індустріальний відділ державної виконавчої служби у місті Харкові Східного міжрегіонального управління Міністерства юстиції",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1973-05-31",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "66752985",
+            "category": "стягнення виконавчого збору",
+            "publisher": "ДРУГИЙ МАЛИНОВСЬКИЙ ВІДДІЛ ДВС У МІСТІ ОДЕСІ ПІВДЕННОГО МІЖРЕГІОНАЛЬНОГО УПРАВЛІННЯ МІНІСТЕРСТВА ЮСТИЦІЇ (М. ОДЕСА)",
+            "executor": "СКРЯБІНА АНЖЕЛІКА ЯРОСЛАВІВНА",
+            "executor_org": "Малиновський відділ державної виконавчої служби у місті Одесі Південного міжрегіонального управління Міністерства юстиції (м. Одеса)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1978-06-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "65746339",
+            "category": "стягнення штрафів у справах про адміністративні правопорушення",
+            "publisher": "Голосіївське управління поліції",
+            "executor": "СОВЕЦЬКИЙ ДЕНИС ОЛЕГОВИЧ",
+            "executor_org": "Дунаєвецький відділ державної виконавчої служби у Кам'янець-Подільському районі Хмельницької області Центрального міжрегіонального управління Міністерства юстиції (м.Київ)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1979-06-27",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "65355450",
+            "category": "стягнення штрафів у справах про адміністративні правопорушення",
+            "publisher": "Кам'янець-Подільське РВП Кам'янець-Подільського ВП ГУНП",
+            "executor": "УРСАЄВ РУСЛАН ПАВЛОВИЧ",
+            "executor_org": "Кам'янець-Подільський відділ державної виконавчої служби у Кам'янець-Подільському районі Хмельницької області Центрального міжрегіонального управління Міністерства юстиції (м.Київ)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1966-01-08",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "65354515",
+            "category": "стягнення штрафів у справах про адміністративні правопорушення",
+            "publisher": "Кам'янець-Подільське РВП Кам'янець-Подільського ВП ГУНП",
+            "executor": "УРСАЄВ РУСЛАН ПАВЛОВИЧ",
+            "executor_org": "Кам'янець-Подільський відділ державної виконавчої служби у Кам'янець-Подільському районі Хмельницької області Центрального міжрегіонального управління Міністерства юстиції (м.Київ)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1966-01-08",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "59523227",
+            "category": "стягнення коштів",
+            "publisher": "Орджонікідзевський районний суд м.Харкова",
+            "executor": "КОБУЛІЯ АННА ГЕННАДІЇВНА",
+            "executor_org": "Міжрайонний відділ державної виконавчої служби по Індустріальному та Немишлянському районах у місті Харкові Східного міжрегіонального управління Міністерства юстиції (м. Харків)",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1973-05-31",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "58434806",
+            "category": "стягнення коштів на користь держави",
+            "publisher": "Малиновський районний суд міста Одеси",
+            "executor": "ГОРІНСЬКА МАР'ЯНА ОЛЕКСАНДРІВНА",
+            "executor_org": "Братський районний відділ державної виконавчої служби Головного територіального управління юстиції у Миколаївській області",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1987-03-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "57882919",
+            "category": "стягнення коштів на користь держави",
+            "publisher": "Южноукраїнський міський суд",
+            "executor": "КОНСТАНТІНОВА АЛЬОНА ОЛЕКСАНДРІВНА",
+            "executor_org": "Братський районний відділ державної виконавчої служби Головного територіального управління юстиції у Миколаївській області",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1978-03-25",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "54559723",
+            "category": "стягнення коштів на користь держави",
+            "publisher": "Вінницький міський суд",
+            "executor": "ШЕНДЕРУК ГАЛИНА ЄВГЕНІЇВНА",
+            "executor_org": "Липовецький районний відділ державної виконавчої служби Головного територіального управління юстиції у Вінницькій області",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1984-11-07",
+            "is_actual": 1,
+            "created_at": "2024-10-09 21:44:30",
+            "updated_at": "2024-10-09 21:44:30"
+          },
+          {
+            "order_num": "75529463",
+            "category": "стягнення штрафів у сфері безпеки дорожнього руху у справах про адміністративні правопорушення",
+            "publisher": "Національна поліція",
+            "executor": "ПАВЛІШ ІВАННА СЕРГІЇВНА",
+            "executor_org": "Здолбунівський відділ державної виконавчої служби у Рівненському районі Рівненської області Західного міжрегіонального управління Міністерства юстиції",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1969-05-03",
+            "is_actual": 0,
+            "created_at": "2024-09-10 22:04:16",
+            "updated_at": "2024-09-10 22:04:16"
+          },
+          {
+            "order_num": "75790000",
+            "category": "стягнення штрафів у сфері безпеки дорожнього руху у справах про адміністративні правопорушення",
+            "publisher": "Національна поліція",
+            "executor": "КАРПЮК ЮЛІЯ АНАТОЛІЇВНА",
+            "executor_org": "Здолбунівський відділ державної виконавчої служби у Рівненському районі Рівненської області Західного міжрегіонального управління Міністерства юстиції",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1969-05-03",
+            "is_actual": 0,
+            "created_at": "2024-09-10 22:04:16",
+            "updated_at": "2024-09-10 22:04:16"
+          },
+          {
+            "order_num": "75482885",
+            "category": "документ, що не підпадає під згадані категорії",
+            "publisher": "Здолбунівський районний суд",
+            "executor": "ВЛАДІМІРОВА АННА ОЛЕКСАНДРІВНА",
+            "executor_org": "Здолбунівський відділ державної виконавчої служби у Рівненському районі Рівненської області Західного міжрегіонального управління Міністерства юстиції",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1969-05-03",
+            "is_actual": 0,
+            "created_at": "2024-08-30 21:59:38",
+            "updated_at": "2024-08-30 21:59:38"
+          },
+          {
+            "order_num": "75535616",
+            "category": "стягнення штрафів у сфері безпеки дорожнього руху у справах про адміністративні правопорушення",
+            "publisher": "Національна поліція",
+            "executor": "ВЛАДІМІРОВА АННА ОЛЕКСАНДРІВНА",
+            "executor_org": "Здолбунівський відділ державної виконавчої служби у Рівненському районі Рівненської області Західного міжрегіонального управління Міністерства юстиції",
+            "debtor_edr": null,
+            "debtor_name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "debtor_name_hash": "98e3856b5a0a13c64343b30c74810932",
+            "debtor_type": "person",
+            "debtor_birth_date": "1969-05-03",
+            "is_actual": 0,
+            "created_at": "2024-08-30 21:59:38",
+            "updated_at": "2024-08-30 21:59:38"
+          }
+        ]
+      },
+      "securityInfo": {
+        "wanted": [
+          {
+            "ID": "4d8ffa28ad12ea0b924fa7d71084ebb6",
+            "RecordID": "3024251409606207",
+            "Dep": "ШАРГОРОДСЬКЕ ВІДДІЛЕННЯ ПОЛІЦІЇ ЖМЕРИНСЬКОГО ВІДДІЛУ ГУНП У ВІННИЦЬКІЙ ОБЛАСТІ",
+            "Category": "ОСОБА, ЗНИКЛА БЕЗВІСТИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "NameHash": "98e3856b5a0a13c64343b30c74810932",
+            "BirthDate": "1972-02-04",
+            "Sex": "ЧОЛОВІЧА",
+            "LostDate": "2024-08-27",
+            "LostPlace": "ДОНЕЦЬКА, ПОКРОВСЬКИЙ, КРАСНОГОРІВКА",
+            "Restraint": "НЕ ЗАСТОСОВУВАВСЯ,",
+            "Article": "СТ.115 Ч.1",
+            "Actual": "1",
+            "DateCreated": "2024-10-11 09:44:56",
+            "DateUpdated": "2024-10-11 09:44:56"
+          },
+          {
+            "ID": "07b816238a8d8754e7274c740d1ca476",
+            "RecordID": "3024025578461785",
+            "Dep": "ДЕСНЯНСЬКЕ УПРАВЛІННЯ ПОЛІЦІЇ ГУНП В М. КИЄВІ",
+            "Category": "ОСОБА, ЗНИКЛА БЕЗВІСТИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "NameHash": "98e3856b5a0a13c64343b30c74810932",
+            "BirthDate": "1981-02-17",
+            "Sex": "ЧОЛОВІЧА",
+            "LostDate": "2024-01-15",
+            "LostPlace": "ДОНЕЦЬКА, КРАМАТОРСЬКИЙ, ТЕРНИ",
+            "Restraint": "НЕ ЗАСТОСОВУВАВСЯ,",
+            "Article": "СТ.115 Ч.1",
+            "Actual": "1",
+            "DateCreated": "2024-10-11 09:44:47",
+            "DateUpdated": "2024-10-11 09:44:47"
+          },
+          {
+            "ID": "3af20f5d401c198c45c09d80d8df3423",
+            "RecordID": "3024025578461785",
+            "Dep": "ДЕСНЯНСЬКЕ УПРАВЛІННЯ ПОЛІЦІЇ ГУНП В М. КИЄВІ",
+            "Category": "ОСОБА, ЗНИКЛА БЕЗВІСТИ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "NameHash": "98e3856b5a0a13c64343b30c74810932",
+            "BirthDate": "1981-02-17",
+            "Sex": "ЧОЛОВІЧА",
+            "LostDate": "2024-01-22",
+            "LostPlace": "ДОНЕЦЬКА, КРАМАТОРСЬКИЙ, ТЕРНИ",
+            "Restraint": "НЕ ЗАСТОСОВУВАВСЯ,",
+            "Article": "СТ.115 Ч.1",
+            "Actual": "0",
+            "DateCreated": "2024-02-01 00:54:22",
+            "DateUpdated": "2024-02-01 00:54:22"
+          },
+          {
+            "ID": "27a2ccc294be15e44a33df180a94acd7",
+            "RecordID": "3019093644604476",
+            "Dep": "ЗДОЛБУНІВСЬКЕ ВІДДІЛЕННЯ ПОЛІЦІЇ ОСТРОЗЬКОГО ВІДДІЛУ ГУНП В РІВНЕНСЬКІЙ ОБЛ.",
+            "Category": "БЕЗВЕСТИ ПРОПАВШИЙ",
+            "Name": "МЕЛЬНИК ЮРІЙ ВІКТОРОВИЧ",
+            "NameHash": "98e3856b5a0a13c64343b30c74810932",
+            "BirthDate": "1969-05-03",
+            "Sex": "ЧОЛОВІЧА",
+            "LostDate": "2019-02-01",
+            "LostPlace": "РОВЕНСКАЯ, ЗДОЛБУНОВ",
+            "Restraint": ", ",
+            "Article": "СТ.115 Ч.1",
+            "Actual": "0",
+            "DateCreated": null,
+            "DateUpdated": null
+          }
+        ]
+      }
+    }
+  },
+  "stats": {
+    "query_time": 0.15362811088562012,
+    "quota": {
+      "used": 21756532,
+      "max": -1,
+      "key_used": 44,
+      "key": {
+        "queries": 44,
+        "limit": 20
+      }
+    }
+  }
+}
