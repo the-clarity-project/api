@@ -69,4 +69,4 @@
 https://clarity-project.info/api/fop.info/c0a7d2d26cfc02758f1492aab0fca287?key=xxx
 
 ##### Приклад відповіді:
-[examples/fop.info.json]()
+[examples/fop.info.json](examples/fop.info.json)

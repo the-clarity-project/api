@@ -11,8 +11,8 @@
 https://clarity-project.info/api/tax.info/00015622?key=xxx
 
 ##### Приклад відповіді:
-[examples/tax.info_00015622.json]()
-[examples/tax.info_43007203.json]()
+* [tax.info/00015622.json](examples/tax.info/00015622.json)
+* [tax.info/43007203.json](examples/tax.info/43007203.json)
 
 ##### Опис полів:
 * **single_tax** - інформація про платника єдиного податку, `null` - якщо відсутня;
