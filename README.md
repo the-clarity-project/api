@@ -45,7 +45,8 @@
 #### Юридичні особи та ФОП
 * **[edr.info/{edrpou}](edr.info.md#edrinfo)** - повертає інформацію по юридичній особі або ФОП за їх кодом ЄДРПОУ/РНОКПП;
 * **[edr.search](edr.info.md#edrsearch)** - пошук юридичних осіб/ФОП;
-* **[edr.changes](edr.info.md#edrchanges)** - останні зміни в даних юридичних осіб;
+* **[edr.changes](edr.info.md#edrchanges)** - повертає стрічку змін в інформації про юридичні особи;
+* **[edrpou.history](edr.info.md#edrpouhistory)** - повертає історію змін з ЄДР для юридичної особи;
 * **[edr.info/{edrpou}/licenses](edr.info.md#edrinfolicenses)** - повертає ліцензії обраної юо/фоп;
 * **[edr.info/{edrpou}/persons](edr.info.md#edrinfopersons)** - повертає пов'язаних осіб;
 * **[edr.info/{edrpou}/treasury](edr.info.md#edrinfotreasury)** - повертає інформацію по транзакціям Казначейства;

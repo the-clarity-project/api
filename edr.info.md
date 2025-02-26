@@ -329,11 +329,20 @@ https://clarity-project.info/api/edr.info/14360570/vehicles?key=xxx,
 * **VINCode** - vin-код;
 * **Updated**, **Created** - дати (unix-timestamp) останнього оновлення і створення запису; 
 
+## edrpou.history
+
+Метод повертає історію змін в ЄДР для юридичної особи за її кодом.
+
+##### Приклад запиту:
+https://clarity-project.info/api/edrpou.history/43007203?key=xxx,
+де **43007203** - код за ЄДРПОУ.
+
+##### Приклад відповіді:
+[examples/edrpou.history.json](examples/edrpou.history.json)
+
 ## edr.history
 
-Повертає історію змін [1] за кодом ЄДРПОУ.
-
-*[1] станом на зараз історія повертається лише для даних з системи Prozorro*
+Повертає історію змін даних з системи Prozorro за кодом ЄДРПОУ.
 
 **Зверніть увагу:** формат запитів та відповідей для цього методу буде змінено в майбутньому.
 
@@ -383,7 +392,6 @@ https://clarity-project.info/api/edr.history/02147629?key=xxx,
 * **source** - тип джерела, open - відкриті торги, limited - звіти;
 * **modified** - дата (unix-timestamp) актуальності;
 * **tender** - ID та назва закупівлі-джерела даних;
-
 
 ## edr.relations
 
