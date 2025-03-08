@@ -142,6 +142,8 @@ https://clarity-project.info/api/tender.search?key=xxx
     * **0** - всі закупівлі;
     * **1** - зі скаргами;
 * **complaint_from** - ЄДРПОУ скаржника;
+* **tender_period_from** та **tender_period_to** - кінцева дата подання пропозицій;
+* **award_date_from** та **award_date_to** - дата визначення переможця;
 
 ### Додаткові поля
 
@@ -158,13 +160,9 @@ https://clarity-project.info/api/tender.search?more_fields=edrs,contracts&key=xx
 * **edrs** - інформація про учасників і замовника;
 * **lots** - інформація про лоти закупівлі;
 * **items** - предмети закупівлі;
-* **bids** - пропозиції;
-* **cancellations** - інформація про скасування закупівлі або її лотів;
-* **awards** - визначення переможця;
-* **contracts** - договір;
-* **qualifications** - прекваліфікації;
-* **disqualifications** - дискваліфікації;
+* **contracts** - договори;
 * **docs** - документи закупівлі;
+* **periods** - інформація про важливі дати;
 
 **Приклад відповіді:**
 
