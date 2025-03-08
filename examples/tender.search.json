@@ -1,719 +1,606 @@
 {
-  "tenders":
-  [
+  "tenders": [
     {
-      "id": "c7f501761b0b4503bab59d31fddd1ee8",
-      "tender_id": "UA-2021-09-07-005722-c",
-      "title": "Послуги з підтримки та адміністрування інформаційно-телекомунікаційної системи «PROZORRO»",
+      "id": "af0fc4383d8b4708aa0fd43cb9e66c41",
+      "tender_id": "UA-2025-03-06-014711-a",
+      "title": "Засоби захисту рослин",
       "description": "",
-      "modified": "1635776973",
-      "value":
-      {
-        "amount": "16300000.00",
-        "uah_amount": "16300000.00",
+      "modified": 1741356225,
+      "created": 1741285918,
+      "value": {
+        "amount": 700000,
+        "uah_amount": 700000,
         "currency": "UAH",
-        "vat": "1"
+        "vat": 1
       },
-      "lots": "0",
-      "bids": "2",
-      "awards": "1",
-      "contracts": "1",
-      "region": "kiev",
-      "buyer_edr": "02426097",
-      "buyer_name": " ДП \"ПРОЗОРРО\"",
-      "method":
-      {
-        "method": "open",
+      "lots": 1,
+      "bids": 0,
+      "awards": 0,
+      "contracts": 0,
+      "region": "vn",
+      "buyer_edr": "25496858",
+      "buyer_name": "Державний професійно-технічний навчальний заклад \"Мазурівський аграрний центр професійно-технічної освіти",
+      "method": {
         "method_name": "Конкурентні",
-        "type": "aboveThresholdEU",
-        "type_name": "Відкриті торги (EU)"
+        "type_name": "Відкриті торги",
+        "method": "open",
+        "type": "aboveThresholdUA"
       },
-      "status":
-      {
-        "code": "complete",
-        "name": "Завершена",
-        "short_code": "complete"
+      "status": {
+        "name": "Очікування пропозицій",
+        "code": "active.tendering",
+        "short_code": "active.tendering"
       },
-      "award_date": "1634653820",
-      "risks":
-      {
-        "score": null,
-        "max": null
-      },
-      "more":
-      {
-        "edrs":
-        [
+      "award_date": 0,
+      "more": {
+        "items": [
           {
-            "edr": "41208895",
-            "role": "contractor",
-            "prozorro_data":
-            {
-              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МК-КОНСАЛТИНГ\"",
-              "contact": "Калінічев Сергій Станіславович",
-              "email": "office@consulting.mk",
-              "phone": "+380931708275"
+            "id": "0951016f66389cdf0f09549dca523891",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "Турнікс Екстра",
+            "qty": 80,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
             },
-            "edr_data": null
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
           },
           {
-            "edr": "41208895",
-            "role": "supplier",
-            "prozorro_data":
-            {
-              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МК-КОНСАЛТИНГ\"",
-              "contact": "Калінічев Сергій Станіславович",
-              "email": "office@consulting.mk",
-              "phone": "+380931708275"
+            "id": "29399399cc44adf88c63bec85f72b74a",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "Хекат",
+            "qty": 15,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
             },
-            "edr_data": null
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
           },
           {
-            "edr": "41208895",
-            "role": "tenderer",
-            "prozorro_data":
-            {
-              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МК-КОНСАЛТИНГ\"",
-              "contact": "Калінічев Сергій Станіславович",
-              "email": "office@consulting.mk",
-              "phone": "+380931708275"
+            "id": "2dafc6bbe06d9d4a0a44348a8ec1ff5f",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "Ламбада",
+            "qty": 70,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
             },
-            "edr_data": null
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
           },
           {
-            "edr": "43400053",
-            "role": "tenderer",
-            "prozorro_data":
-            {
-              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПРОЗОРІ РІШЕННЯ\"",
-              "contact": "Радченко Олексiй",
-              "email": "A.RADCHENKO@PROZORI.IN.UA",
-              "phone": "380979279920"
+            "id": "34b2525c44a096b557c38c340d77f5cb",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "челендж",
+            "qty": 180,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
             },
-            "edr_data": null
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
           },
           {
-            "edr": "02426097",
-            "role": "buyer",
-            "prozorro_data":
-            {
-              "name": " ДП \"ПРОЗОРРО\"",
-              "contact": "Ася Мансурова",
-              "email": "a.mansurova@prozorro.ua",
-              "phone": "+380442814296"
+            "id": "48dfb9d072946464835cabaab9d0c74e",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "мілвус екстра",
+            "qty": 20,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
             },
-            "edr_data":
-            {
-              "name": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"ПРОЗОРРО\"",
-              "short_name": "ДП \"ПРОЗОРРО\"",
-              "status": "registered",
-              "status_name": "Зареєстровано",
-              "address": "М. КИЇВ, ВУЛ. БУЛЬВАРНО-КУДРЯВСЬКА, БУД. 22"
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "6c3d3ecffaab14265e19b6f5d21620b7",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "казим",
+            "qty": 80,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "6faefa81bb99cbe4c733e090042ac233",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "огороднік",
+            "qty": 75,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "75fdb7fcbd12be07544de540fe54e48a",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "тримай",
+            "qty": 15,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "76c42551bc386e90171587bf6abbe017",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "кулак",
+            "qty": 20,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "7ef36e6f2c6925a838eecfea1a4c4e12",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "кентавр",
+            "qty": 85,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "8ba1db58d90f7b4cc24ebdb36e9dec2e",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "доля",
+            "qty": 80,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "96df3bd23dd80b934e996b4e19ad1c9d",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "актітек тітанум",
+            "qty": 40,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "a15a3a49c52a293339855ae2fcd348e7",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "ризостим",
+            "qty": 20,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "aa3052d986aa424c0393a0888e68ddf7",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "Гранік",
+            "qty": 3,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "ad60b815cc35414b487cacfde3ff3109",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "наказ",
+            "qty": 3,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "ad82ba4ad5d9959bfcd177389bd3db29",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "тарч",
+            "qty": 180,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "b66a3407e9de72c736eb0faeeda5c274",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "злакодин",
+            "qty": 1,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "c5ed1ea68a3b349de88085d54c7c6010",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "прилипач Агрочем90",
+            "qty": 20,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "d3dba99a553409b11717df0038004b8a",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "базан",
+            "qty": 180,
+            "unit": "LTR",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
+            }
+          },
+          {
+            "id": "f92ad0b8af4a4ad2f3454942acdf2c1f",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "descr": "Оріон",
+            "qty": 3,
+            "unit": "KGM",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "24450000-3",
+              "name": "Агрохімічна продукція"
+            },
+            "delivery": {
+              "date_from": null,
+              "date_to": 1746034617,
+              "address": "24106, Україна, Вінницька область, Мазурівка, вул.Польова,1"
             }
           }
         ],
-        "lots":
-        [],
-        "items":
-        [
+        "lots": [
           {
-            "id": "3fdf02fde26a4c8fa845da2e1807ca27",
+            "status_name": "Активний",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "title": "засоби захисту рослин",
+            "status": "active",
+            "value": 700000
+          }
+        ],
+        "docs": [
+          {
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "id": "11cc5f9fc520488ebbc44fbe72123935",
+            "title": "sign.p7s",
+            "modified": 1741286003,
+            "url": "https://public-docs.prozorro.gov.ua/get/bc08c8d3e24341a6adfc6e3edc83ebc4?Signature=HCFECyw%2BC3Ta%2Fk4%2Fsm8YTnbhuFj%2FFb2N9LJJhijrZKyACavHkU2l2tJRphKMWTYfWq%2FqmY6n6KJK329ENQVEAQ%3D%3D&KeyID=52462340",
+            "document_of": "tender",
+            "related_item": "af0fc4383d8b4708aa0fd43cb9e66c41"
+          }
+        ],
+        "periods": [
+          {
+            "type_name": "Період уточнень",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
             "lot": null,
-            "descr": "Послуги з підтримки та адміністрування інформаційно-телекомунікаційної системи «PROZORRO»",
-            "qty": "1",
-            "unit": "E48",
-            "value": "16300000.00",
-            "uah_value": "16300000.00",
-            "classification": "72253200-5",
-            "delivery":
-            {
-              "date_from": "1636668000",
-              "date_to": "1673388000",
-              "address": "01601, Україна, Київська область, м.Київ, вул. Бульварно-Кудрявська, 22"
+            "type": "enquiry",
+            "start": "2025-03-06T18:31:58+0000",
+            "end": "2025-03-13T22:00:00+0000"
+          },
+          {
+            "type_name": "Подача пропозицій",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": null,
+            "type": "tender",
+            "start": "2025-03-06T18:31:58+0000",
+            "end": "2025-03-24T18:36:57+0000"
+          },
+          {
+            "type_name": "Аукціон",
+            "tender": "af0fc4383d8b4708aa0fd43cb9e66c41",
+            "lot": "fbf0de2363102365ee9d413d5171d2ae",
+            "type": "auction",
+            "start": "2025-03-25T10:03:54+0000",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "c83cdd1b61fb448b8bdfc50467aabed2",
+      "tender_id": "UA-2025-03-07-007971-a",
+      "title": "Електрична енергія з розподілом",
+      "description": "",
+      "modified": 1741351126,
+      "created": 1741351113,
+      "value": {
+        "amount": 5569500,
+        "uah_amount": 5569500,
+        "currency": "UAH",
+        "vat": 1
+      },
+      "lots": 1,
+      "bids": 0,
+      "awards": 0,
+      "contracts": 0,
+      "region": "",
+      "buyer_edr": "07902616",
+      "buyer_name": "Військова частина Р9025",
+      "method": {
+        "method_name": "Конкурентні",
+        "type_name": "Відкриті торги",
+        "method": "open",
+        "type": "aboveThresholdUA"
+      },
+      "status": {
+        "name": "Очікування пропозицій",
+        "code": "active.tendering",
+        "short_code": "active.tendering"
+      },
+      "award_date": 0,
+      "more": {
+        "items": [
+          {
+            "id": "3f0c6e1421734e6eaa05dbd6f27734d2",
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "lot": "2dd349e8138c4f6cb7d72c8c09e62fae",
+            "descr": "електрична енергія з розподілом",
+            "qty": 120000,
+            "unit": "KWH",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "09310000-5",
+              "name": "Електрична енергія"
+            },
+            "delivery": {
+              "date_from": 1743454800,
+              "date_to": 1767132000,
+              "address": "Україна, Відповідно до документації"
+            }
+          },
+          {
+            "id": "7b0c6cd01f244292ad5a29ddb44b3e5d",
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "lot": "2dd349e8138c4f6cb7d72c8c09e62fae",
+            "descr": "електрична енергія з розподілом",
+            "qty": 455000,
+            "unit": "KWH",
+            "value": 0,
+            "uah_value": 0,
+            "classification": {
+              "code": "09310000-5",
+              "name": "Електрична енергія"
+            },
+            "delivery": {
+              "date_from": 1743454800,
+              "date_to": 1767132000,
+              "address": "Україна, Відповідно до документації"
             }
           }
         ],
-        "bids":
-        [
+        "lots": [
           {
-            "id": "59f367b0e195494799f6ce56686b53b2",
-            "value": 15087600,
-            "uah_value": 15087600,
+            "status_name": "Активний",
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "title": "Електрична енергія та супутні послуги (передача/розполіл)",
             "status": "active",
-            "date": "2021-10-19 13:14:46",
-            "edr": "41208895"
-          },
-          {
-            "id": "cd26a554f34e4fccb2661c89a3c50bde",
-            "value": 15200000,
-            "uah_value": 15200000,
-            "status": "active",
-            "date": "2021-10-19 13:11:55",
-            "edr": "43400053"
+            "value": 5569500
           }
         ],
-        "awards":
-        [
+        "docs": [
           {
-            "id": "58296288b97d4347b0712cb43a36a215",
-            "value": 15087600,
-            "uah_value": 15087600,
-            "status": "active",
-            "date": "2021-10-19 17:30:20",
-            "edr": "41208895"
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "id": "2e703f65c58f488bb164f35d98009ba3",
+            "title": "sign.p7s",
+            "modified": 1741351123,
+            "url": "https://public-docs.prozorro.gov.ua/get/caa2dc15b5ed40c5a41b7dac797dd721?Signature=YNCSxWCqKBfLMZT9ig9e0gCj7eV6AZM8CTB0byngfe%2FPmpTxfOyo5oMVmXsMvxWGn5yVGRpBjLQAAAlJTXt4AQ%3D%3D&KeyID=52462340",
+            "document_of": "tender",
+            "related_item": "c83cdd1b61fb448b8bdfc50467aabed2"
+          },
+          {
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "id": "72c6ec1c03764297a420252694a6d1c4",
+            "title": "ТД Електрична енергія та супутні послуги (передача-розподіл).doc",
+            "modified": 1741351114,
+            "url": "https://public-docs.prozorro.gov.ua/get/f46db09d5b724d4889af0009c2d6e569?Signature=QMRt%2B3eVV66h%2F6YoGDqvt023CwG0wraXyz8EvgRjG%2BzlW804GaYhMW1G4z9%2FMCu%2BDoglBosApU%2FaiB7%2FQ0oDBw%3D%3D&KeyID=52462340",
+            "document_of": "tender",
+            "related_item": "c83cdd1b61fb448b8bdfc50467aabed2"
+          },
+          {
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "id": "7d5d623ae6bc46609791dc9dc674d869",
+            "title": "Проект договору .doc",
+            "modified": 1741351114,
+            "url": "https://public-docs.prozorro.gov.ua/get/4309fcb4ea294dda8686d48c5118b92e?Signature=iZMuEIdG80tLwuW0RpShkowA%2Fi2tJsOyFW%2FTGeeVtljlRTF046s2%2FURtjX%2BOgZeWTOkZ9%2B%2BN3DoWThRnOqaWBg%3D%3D&KeyID=52462340",
+            "document_of": "tender",
+            "related_item": "c83cdd1b61fb448b8bdfc50467aabed2"
           }
         ],
-        "contracts":
-        [
+        "periods": [
           {
-            "id": "ed4f638f2ce84932a2ebc201f9231532",
-            "award": "58296288b97d4347b0712cb43a36a215",
-            "edr": "41208895",
-            "contract_number": "00000364/Г",
-            "status": "active",
-            "date": "2021-11-01 16:29:33",
-            "date_signed": "2021-11-01 12:00:00",
-            "uah_value": 15087600,
-            "value": 15087600
-          }
-        ],
-        "qualifications":
-        [
-          {
-            "id": "c7d81568ba524d2f811385b3a0c6e49e",
-            "bid": "59f367b0e195494799f6ce56686b53b2",
-            "status": "active",
-            "date": "2021-10-13 16:45:03",
-            "edr": "41208895"
+            "type_name": "Період уточнень",
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "lot": null,
+            "type": "enquiry",
+            "start": "2025-03-07T12:38:33+0000",
+            "end": "2025-03-12T22:00:00+0000"
           },
           {
-            "id": "f9a01b6bd2a447dc83748e5abeecc1c7",
-            "bid": "cd26a554f34e4fccb2661c89a3c50bde",
-            "status": "active",
-            "date": "2021-10-13 16:45:19",
-            "edr": "43400053"
-          }
-        ],
-        "disqualifications":
-        [],
-        "docs":
-        [
-          {
-            "id": "01978a0a1f1a4627830849430f5f9f00",
-            "title": "Рішення учасника на участь в тендері _37.pdf",
-            "modified": "1635168978",
-            "url": "https://public.docs.openprocurement.org/get/22fcebc23ab24b7488442d77039e9e8c?Signature=6nBlVXVUGIPxu6fszZqfDjyJ5GOGCmpT0sznpvPaxqOknRcRo%2BlBOfc5wQbFV2tHki5gYYac1G5mOSiTuXSRCw%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
+            "type_name": "Подача пропозицій",
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "lot": null,
+            "type": "tender",
+            "start": "2025-03-07T12:38:33+0000",
+            "end": "2025-03-23T14:00:00+0000"
           },
           {
-            "id": "0400cabee4ef43c3abdb7376edf37425",
-            "title": "Лист про відсутність підстав щодо частини 1 статті 17 Закону.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/4b43211030cb40feaefe0ee8ffc92f5f?Signature=fUX9ieBu1FZCXXYkWH9UmUIlFtZSSqU3YP7dGrITpHkbBpa4Df9iIlTbk5VFgTum3zR7bMl%2FRBhaWfXxAHbtAw%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "09ea74ac69a549ce8b3798b8139abee9",
-            "title": "Оновлена цінова пропозиція Учасника-переможця.pdf",
-            "modified": "1635168979",
-            "url": "https://public.docs.openprocurement.org/get/d472985daca549bfbe9134a1d941fa54?Signature=jS8x7y3F2cZXa6T6HKr9JuPglyLiANC84w%2Bkh7EEZQhvzDo4NXGCpL1k6kzQYguMELAi%2Bm2HZHcIaYKOt614Bg%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "0e68fdf203d64d30b1fcc1c5594eef6d",
-            "title": "5 Витяг з реєстру платників ПДВ.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/de6bf7dc3a414b3d90024bbe77eb3d3c?Signature=mZHcRa0cNHTfmDnvuDAUSV2%2F7JN6F%2F82%2B99AXYZvwrDOAIZ5vqm6yfKPvz3Z1QUAkU0HmkM7pq7ULuRldOHzDw%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "10f6cf7edc0243d1aac9a65cbc9ad458",
-            "title": "1 Лист-погодження з технічними характеристиками закупівлі.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/b9d215d05fba459b84f78a60f8530e8e?Signature=WvfPefv%2BttTdQCWexjnT9Yf6Xa07FwOIcrNyNwZq2u9Wyu0YKuoptU5lfQCVruPQ%2F2yF6arc0AYqtMZ4L%2FoUCA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "13d4492b53aa4557bed773d363832b31",
-            "title": "Договір 00000364Г від 01.11.2021р. з ТОВ МК-Консалтинг (послуги з підтримки та адміністрування ІТС PROZORRO).zip",
-            "modified": "1635776900",
-            "url": "https://public.docs.openprocurement.org/get/14c1f7ed61cc4ee98de1c1873ee1364d?Signature=ckizN4E%2F4hHLsCArPDSmEz%2FQZOBYrJIHzeHcDPWdyVVZQG81bGFAc%2Bd%2FhYq5dziSVnTp0YoV%2FF0ghSr%2Fxk79DQ%3D%3D&KeyID=52462340",
-            "document_of": "contract",
-            "related_item": "ed4f638f2ce84932a2ebc201f9231532"
-          },
-          {
-            "id": "14083f89affb44d8bdccf0f8e8dc6804",
-            "title": "3 Технічне завдання.7z",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/07d904635164484c96337d82bed58627?Signature=1ym50d6b0ObZ%2F5Bn0lmHujhq3P0N5LYvP8x0BEyzAhhnyTa1J%2BBcAW5%2B7IgmnA0kmW8V6H8oeNSAUTji8B2sBg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "160c306804884bcea29f2bf5a16cb8c5",
-            "title": "Тендерна документація-підтримка.docx",
-            "modified": "1631008966",
-            "url": "https://public.docs.openprocurement.org/get/fd8af7d40fb9475e9cc695133a737cca?Signature=f9D2s7PnuC%2FxhvxcsxILi7qfA6BlaIFryeALPw41ecLmyczNSytNfk0WFwIKneHHtUxZis%2F0DSK8%2BOwCtY98Cw%3D%3D&KeyID=52462340",
-            "document_of": "tender",
-            "related_item": "c7f501761b0b4503bab59d31fddd1ee8"
-          },
-          {
-            "id": "1add916367af401db90d711c20100cb9",
-            "title": "Тендерна документація-підтримка-змінена.docx",
-            "modified": "1631614095",
-            "url": "https://public.docs.openprocurement.org/get/a5c607d96d90497694bdd96f5285743d?Signature=Q2mkPsLHokSqHr9yc5y%2F5VWAMyoEdew4kH0MB4wm%2FcyXjYCC0paPYDKnSavKplsQZd8jikxDBT%2BgDtJybP99CA%3D%3D&KeyID=52462340",
-            "document_of": "tender",
-            "related_item": "c7f501761b0b4503bab59d31fddd1ee8"
-          },
-          {
-            "id": "27be0800df61469d8a7fbda607c6448f",
-            "title": "sign.p7s",
-            "modified": "1635776948",
-            "url": "https://public.docs.openprocurement.org/get/53efcd71d58c4fa2a0c38c0da134c326?Signature=xo1MX5KBe6eE%2FpE4QKC6XFay5H5Za9UADzv26lvSzSDhs7eChSCMBqF%2BanELjC0mVgPPqYYrKJhGV5z6XwCqDg%3D%3D&KeyID=52462340",
-            "document_of": "contract",
-            "related_item": "ed4f638f2ce84932a2ebc201f9231532"
-          },
-          {
-            "id": "27d7c45fe22346d08a741d4b26fd562a",
-            "title": "edr_identification.yaml",
-            "modified": "1633701698",
-            "url": "https://public.docs.openprocurement.org/get/d4857bf161054da9b61df797bde137e6?Signature=zXV7Ven%2BN3eB%2B7Jcib2WeDPh9PjhDUah60ugH%2B%2BlxT2F%2FhDdkWSNqVFFZurndD8BM0NWj9W5V00eZaHz2VnZAA%3D%3D&KeyID=52462340",
-            "document_of": "qualification",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "28260b81a36e4625bdcc2c4ddf7a1d78",
-            "title": "5 Статут ТОВ Прозорі Рішення.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/d0da6487b128419fbc045899bb178239?Signature=hf7IZSvtPyce1O5v4DeKNl9tdC%2FH8%2FHPWz2OJ4%2FEDB8OCWBAq0BPOn0Sl1h5LtAt%2FOpY1XGUxPPdcsAZjMaTBg%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "2baf863a3ef646399f8b616b14e4f5e9",
-            "title": "Повідомлення про намір укласти договір.docx",
-            "modified": "1634653780",
-            "url": "https://public.docs.openprocurement.org/get/5c78d46fb2754be69c816e17dfa4ba8d?Signature=2vC0RQr6XCFnKhF777V0PdDWlsIP4oF2xvu0cSivlAfwtX%2FKib4KrVqR81XBchFtoks6QRPkF6S4SuvxOczHCA%3D%3D&KeyID=52462340",
-            "document_of": "award",
-            "related_item": "58296288b97d4347b0712cb43a36a215"
-          },
-          {
-            "id": "34cc91d289df49dda2ca1aa64d6f1323",
-            "title": "Підписаний_211007_Vytyag_NBU_PrivatBank_210816.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/bda8ab1f306242dfa419b75451f3bdbc?Signature=3N36s5DfEhs%2BH2C8A180ZEF8ZdSQBlE7DSD68Vh%2BM3Lm0grH71RPgbSTmu5hjyAIyPhuP7bwhh5w843YQbUWBg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "43b51b22b2064b29ab99eba11c2ab6e5",
-            "title": "edr_identification.yaml",
-            "modified": "1634639360",
-            "url": "https://public.docs.openprocurement.org/get/37878fb8fb9d43b99f7b0a7420b0fe9d?Signature=xZL6cpkBwygBnCL2zQxVqErIdxMzijcSXSJDV%2BC4H%2BT3WpwfoTjrNENGmrAlnW2ludgyTvqFVX7KHprkYszRCg%3D%3D&KeyID=52462340",
-            "document_of": "award",
-            "related_item": "58296288b97d4347b0712cb43a36a215"
-          },
-          {
-            "id": "498925d9a81c4febbf2b001e71ff428e",
-            "title": "Всі статутні документи МК-Консалтинг_статут_наказ_пдв_IBAN.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/9add42f4974b484488afa2a66159892b?Signature=IFQX4CJ8XDvwUxtXJFlRz7dQY2o0NUTSDAKiuAOAFPshrjJHy4lh4NVzmSn8BWej6kOkeem6Y%2Fb6VKh12YOQDg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "4e529199596847f0ba88f212f578eea9",
-            "title": "Підписаний_Dovirenist_Kovalenko_Zavirena.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/69ea3a28d3e140f0bf4a9090fc917254?Signature=zjs%2FBDimE0TnWnZ5iujJs6l58BkkqHRjGUxUplHAqm1vV5DqqlKO0CWK%2Bf3iS3NCdhD6SKrBkTkPqkfCWmOqAA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "51606bbd77a8482bac131d5fe0cea225",
-            "title": "Довідка про відсутність фактів не виконання своїх зобов_язань.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/20aecec8fa1f47c9931aff57249968ec?Signature=AAhFc6CfJcM2uBAZSLQoFVUFs5ROjoaqoZl%2BsCxFHJSgd1RXaNXVVzIaZACMIjAJA9O0K1r0xbYWLdVvJvReAQ%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "554bcb30f59b4f7e992aa5374fa49c1e",
-            "title": "2 Скан копії аналогічних договорів та актів.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/a560cd719df6485b879dddb4916f1128?Signature=xE0F%2Fbdr7L%2FhXFf%2Bf3%2B8BiPVN5XmNyP9toJSEtE34X%2BbK1WeDtVg7O7exmcWoSKdv6%2BdvWLWh0osA63vgeQPDw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "55cb9cf96a4b429ba3ce01bff0523e8d",
-            "title": "Рішення учасника на участь в тендері _37.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/660f73e630ad437e8166b8ad614eb8bf?Signature=hhRUfRDFk01kUu9b8ZwHUsVQNVBMIcKL44UZLcfeLi%2FSUXtLrFj3UAXawZJCkVCJIWETfdkXo87cVYhaYpT%2FBw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "58d21502c51e470ab4ef2b5fce202595",
-            "title": "Підписаний_doverenost Ovdiy_7305_К_О_zaver.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/0e3f7dddce2448819a226270cb92bb76?Signature=01W9FnpzU%2BqECOUudcJWb2MyOJL9LNtDxC58kLpo%2FP3ActNKc%2BJzF%2BnMYeTuDjAxKr4iPgcfKH84gVOcxsFmDg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "5a797fd227374582812e6f0c854cade2",
-            "title": "Договір-00000364-Г.pdf",
-            "modified": "1635776904",
-            "url": "https://public.docs.openprocurement.org/get/35f46b3819f24826ad48a96628e91ce0?Signature=xkN89t%2BslDMUc%2FyMYt49STBdU8%2Bm0eHpqKS8FhB4DEBjSgUSlx9ts4lby3epNXLOgXOc6zhPzZGLm0xs9t%2BJBA%3D%3D&KeyID=52462340",
-            "document_of": "contract",
-            "related_item": "ed4f638f2ce84932a2ebc201f9231532"
-          },
-          {
-            "id": "5b14d4d2c5a64697bdceb7393c97a3e4",
-            "title": "sign.p7s",
-            "modified": "1633695687",
-            "url": "https://public.docs.openprocurement.org/get/66fab59d6a494a6cae38bb1d0a957227?Signature=paWznjHN3l%2BSo8mXAUkPVmGFBGtWb78I67v4X9VAa6EztI0KXsytiv8Pt3bhFinr7NGtRwltJTEm%2FqIdHnjJCA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "5b42e7d7cd56478fa49c0cfc240093ba",
-            "title": "5 Наказ Директора 1-ОК.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/da399a3022a14806ba227d355c7d2cb1?Signature=GMnMbWTMIU68hZtyEkjDvf80MJhXFqsGTmXGW7xYlQPb9xdtsJKq%2FIIp4HnMy1uEStzR0f5UwbKzUNjfHCUJBw%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "6437db95fb7b4b98bdf973b87fc642ac",
-            "title": "Довідка про досвід розгорання ЦБД із скриншотами.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/0d1b3271c7124a8da178e693d3d2e19c?Signature=gYx42PxmSOa7Inky1AYd9ZozN6gGJQeFbT2GmcrlGW366loSM6glI9Bq%2FJyufE5mKpgV%2Byb5dyH3cB%2Fhua%2FQDw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "6c9933c7042744a4a924fe882943dafb",
-            "title": "Підписаний_Licenziya_PrivatBank_Zavirena.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/185181fc9a86405e91283d8eb041ab3c?Signature=WFMeHG9UVYNkjhOAyg7m3TudXO87XTQ35ei0xDLz6fCfVsWAel7HnzlRaEElCcLbCtwG0VsflEbOdMjZxeehDg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "6dcf8477a5bf4acfb4a4eeb5737bd202",
-            "title": "Аналогічні договори.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/b39b7d10f4aa470aa35248983b23792e?Signature=PlxL4kf6KcenLF4FMCHghXYaEnY%2B7pFdrUy%2Fu7w82SwbPyiWklvamCLHY2tAIOGvmSbA1I%2Boay48oSaBZs6NAg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "7a80067690fc4d6086a578ad67fb1e50",
-            "title": "1 Довідка Матеріально технічна база.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/7f54c0d9c0614a7ba4a78d616e7cbc10?Signature=2bjzXeirFJx4FBq4JBf8ZZEZoKQ84uUbDoJ72A94MXRU9r2XbmTjEfRvoPVlKP58%2FPgRvGmEBkqUCfy9rNgKDg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "7e55c0b83e35496c8b070a8b35614ae3",
-            "title": "5 Протокол підписанта.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/f076421e5f88438386bc0de1e4b2ea78?Signature=sEtGt2D927%2FaxNiP9BjxQPoHq3gAE3hxwk4UMKeSn0dqgYv3UW813atHkz83ISTNrjWjUJqbiRyod6DezEpzAQ%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "7e9e84ab912244e08389fd8707d4c992",
-            "title": "Всі статутні документи МК-Консалтинг_статут_наказ_пдв_IBAN.pdf",
-            "modified": "1635168981",
-            "url": "https://public.docs.openprocurement.org/get/92125951292d40ed86ca48318da1c9eb?Signature=FKsDNsbdNJl1kmy2MdQs%2Bn%2F7%2FCk7en0jxeYb2DcXBvEIRMJ08wZ6lEmDANzLO24qr%2Bpx00JEbUe9O9k7v7jrCQ%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "7ed1a4cfe1c0469098ffa336f13115eb",
-            "title": "4 Тендерна пропозиція.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/fe3fe3cd9aeb4291b74d1fb8286512fe?Signature=Qus5tE5sMzE%2B5gp94NMpTGSoXROOe8aoKOPzL33S5vlBu7b%2BsuMMCbuqZEMXyZpgoMFLuuw2fU44oiOM3pkUCA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "838a1caeeaaf4f0982e2fd9840f8d858",
-            "title": "26590002426097J1603102100000951011020212659.KVT.p7s",
-            "modified": "1634653826",
-            "url": "https://public.docs.openprocurement.org/get/040318d720b3448fb2a9c32cef9ce9fd?Signature=mdPjGW8LroO2RTFGk2VoWCdaFu1D7SoNmCig%2BYlJnzS83vwV6Ppha%2BP4pSTIHdrQhtJzH%2B8y5vx1D38ITcJGDw%3D%3D&KeyID=52462340",
-            "document_of": "award",
-            "related_item": "58296288b97d4347b0712cb43a36a215"
-          },
-          {
-            "id": "84a3a29c54604c53ae9c7458e08cc9fb",
-            "title": "sign.p7s",
-            "modified": "1633695687",
-            "url": "https://public.docs.openprocurement.org/get/6dbb91c84edf4f12a8ad6f61b33e9d8b?Signature=U%2BA%2FwbtFWwsR5NGQS3EUgcv%2FWwOx6k5xIYh5Rr%2BjTjLMNF6IaWW9dvhN2jQo50TxQ99QtpvKbFbTa0tdZ42LBg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "864e25a7c7704327b88177150a02249c",
-            "title": "Підписаний_licenzia_zaveren.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/9964a0dbe3ba48a39e42ae73033d9a08?Signature=LtDBgGFER31VEEmGznQLFTIEshGroa9jKuRUYDDt43vmTKUw0CaHYBiMtrvuKkCDOpM1QuLnA8bbvRtloeoEBQ%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "897709f2190c477bb1358e7c7f2e8c1b",
-            "title": "2 Наявність документально підтвердженого досвіду виконання аналогічного договору.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/a81d32f964b841a98a8d37955b5c7681?Signature=wjuQSVsZyahiJ8gHHChnZt%2Fj6PJEczMuBHj5Y5%2BjHLqVM4%2BwZU7zfRymUCOJPY5dr5Wviu8t%2FVjnLn2jKYt4DA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "9612250734e848d583a95a0849afff3b",
-            "title": "ОГОЛОШЕННЯ.docx",
-            "modified": "1631008967",
-            "url": "https://public.docs.openprocurement.org/get/e4ef412e989144e09e392e595dc1e7b4?Signature=jtmrfy%2BRlDSVzCN3hKFA4fV6Qc5yb00Mi1fA4IHhwMQBeU2XlKlIBcEg%2FSQGT3iqOpTu13juMlkPEedWu39%2BDw%3D%3D&KeyID=52462340",
-            "document_of": "tender",
-            "related_item": "c7f501761b0b4503bab59d31fddd1ee8"
-          },
-          {
-            "id": "97a3a2d3967149b69f364d9fff83c765",
-            "title": "Гарантія.zip",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/6cfadf216848433d9d0da66c531d104b?Signature=x2sTDITXZcRLLYvraGSODjvkrjkazWQi4tzuhvZsPfNvuuvcejj0O60CkqG7A0W7xyCw%2B19T%2FLhfJdz7BPPeCw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "9d12cb47812e4291a95b8cb671e42564",
-            "title": "Справка МВС Калиничев 20102021.pdf",
-            "modified": "1635168981",
-            "url": "https://public.docs.openprocurement.org/get/39dd8e60f7ce42db96074dfd8f4ae541?Signature=NNyWlyPGD6%2F7bi5%2Fvf570XZpCWApJRueR6%2BWuzSKkAqRxQYuWCEjB0mDkj4%2B4heHtELTF8IASNx6fzFiEeOEBA%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "a07b19c476d24fc6a7e0fee2d53c571e",
-            "title": "audit_c7f501761b0b4503bab59d31fddd1ee8.yaml",
-            "modified": "1634639353",
-            "url": "https://public.docs.openprocurement.org/get/4b21ead8905442e3a59ed50bfb7afe35?Signature=h4fsPZB6Mhqm1WReNad3lX37jwsWQjcTww4SA692POtJBwQ1O64cy5p9tOSVt6%2B3XsjaTQ98CoPC%2F5%2F2PBHNAA%3D%3D&KeyID=52462340",
-            "document_of": "tender",
-            "related_item": "c7f501761b0b4503bab59d31fddd1ee8"
-          },
-          {
-            "id": "a11e4fb238fd4f1e8e5ee2557f64d8eb",
-            "title": "sign.p7s",
-            "modified": "1634653819",
-            "url": "https://public.docs.openprocurement.org/get/0c25359470d94233afaaeccf1ef0877a?Signature=dgTyogcoyDLfLMDJ6cKjjOfQyQ5SUzdA2xcaldaLnIjh%2B93q%2B8jMJIFQQKRKrPDhK8rqzn2gLollj%2BE96znLAA%3D%3D&KeyID=52462340",
-            "document_of": "award",
-            "related_item": "58296288b97d4347b0712cb43a36a215"
-          },
-          {
-            "id": "a7beb97e484545dd80e90b22b06cf383",
-            "title": "sign.p7s",
-            "modified": "1631614136",
-            "url": "https://public.docs.openprocurement.org/get/087b87cae1f543cdb76ef5b5205d2db6?Signature=CnHszJFYG%2BmjweKxQlcJG21wfPFvIyOsr9%2B1QFgV4dt1ykcitzi8WOQ%2BU4RJA%2BbMMtRmT4DjpqC8HkmzqYGdBg%3D%3D&KeyID=52462340",
-            "document_of": "tender",
-            "related_item": "c7f501761b0b4503bab59d31fddd1ee8"
-          },
-          {
-            "id": "aec2d11841b94d2aad2b330d7d14021b",
-            "title": "Довідка про наявність МТЗ.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/309f5d119ba54b2f965e410fcaace6c1?Signature=vf2sp9k8kv77FTtDnY3TMJW%2BWwDxLK%2FYWu9OXmWERhZxWPLyu6PmKRYaSfjEOOD4JSUTgg2Cbva30tTDXPfNDg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "b1df1b43034e4caa9311fce5cfddad67",
-            "title": "26590002426097J1703102100000951011020212659.XML.p7s",
-            "modified": "1634709801",
-            "url": "https://public.docs.openprocurement.org/get/66485acfc07944129d3081c138538710?Signature=bzE1Nv7F4Z0sl1PBC8gmbv56hsOc9xDL3kH9JtTgmxXHmh5aVuLizZ7O1kUxltRjqW8di1unhv50RqmFnMqQCw%3D%3D&KeyID=52462340",
-            "document_of": "award",
-            "related_item": "58296288b97d4347b0712cb43a36a215"
-          },
-          {
-            "id": "b26b3ff7e00f4afb9daff3e38b890df4",
-            "title": "Цінова пропозиція з ПДВ.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/b3e4f86513544878830c0c036052a29d?Signature=CGXJdbRxg186t0HKGGbhmKDZe5n2QAKClK7xTx26bDUy%2BRcHxwmThbqXC4ER3Wx%2FADMsseAdRoh9gFfXTGBkDw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "b5fb6379e1cf488ca031778925894d57",
-            "title": "Зміни до гарантії.zip",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/14a1344ce3ed457ebbcf910b53d57490?Signature=wK%2BXVVQqzPGsw7xd%2BIG3sFjV%2B%2BzQZLAZIfklsLhS8zqMZZdTByOCEwv5CTTEiXu7fE8jH5qLHRUM94MH3fCxAA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "bedd60376cf24a5d8fa70ec36ff4b89e",
-            "title": "Довідка про відсутність фактів не виконання зобов_язань за договорами із Замовником.pdf",
-            "modified": "1635168983",
-            "url": "https://public.docs.openprocurement.org/get/d79f60d75b1345bf8cccbb4851eceecf?Signature=EGdzEqdc4NJ1sUxrYKjhiEFVoGJBG5Ru9GwWsrSU0mFLt3%2FIJNml3vGl%2F1O2e%2FcNJN8Uq4GRxY5pQ8MoaOnYCg%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "c7d81568ba524d2f811385b3a0c6e49e"
-          },
-          {
-            "id": "c1fa0029dab54e8db1bd65f2fcb60aab",
-            "title": "Підписаний_Зміни _1_G1021-1214-GL_.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/20a019cac25e427daf6c549ae03a612c?Signature=AnhsOEGLIM%2FsGtPl686jrl6NQEfqk9qb9AOQb%2FONIo4w83xsNoBFZS2Ywvd30TNp5Vlz8p7io3CC%2FCh9NwAaDw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "c23348d4fd2144e484f3269387c2e74c",
-            "title": "screenshots.zip",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/e12fbd6ce6a54ee893d41bae233d3497?Signature=7EZ0WKka8RUCa0HdkkPSEiqpWT871RlopZKZ35IVMrGBwzojJG2V8GXUWisIl16jvjstJnvJQZI9uwtb4IQBAQ%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "c526bfb0886e43a3a9d9bd00d03d420b",
-            "title": "sign.p7s",
-            "modified": "1635170842",
-            "url": "https://public.docs.openprocurement.org/get/592a464648ca4cf8b0907ecd9cf54998?Signature=%2FOWWaWvqa3hre1%2FQfBvhyFcgvwYLmXAOOxe4aL1qaUGi6AYIbp3dmCufBGhFr7iFfjG53mDcEBZd2lS8QVbjAA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "cd06aaced46949a3a04e9816e32ed6be",
-            "title": "Лист-відгук ДП Прозорро щодо виконання Договору 265Г.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/b6dab1536fb74ec98296848272426fd4?Signature=VMY8arLeexS77n%2FxpwURXmRG5vFNgv11ZOzwY4N%2BL2Z5%2BuS6Mo6kdWESfpjtBPcORl9PMw%2Bk2vdt8g0SX5OuDw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "cfac8aa677b64b46827e2f6f6ff62464",
-            "title": "5 Протокол ТОВ Прозорі Рішення.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/f7c2c144a0ed447dbe765cdd753e7f72?Signature=p0qvPwKtL3ydDvzmrumgKAz%2Bt1waOTGTmejRBHJV9IocTt3lq2AJbaaXsy8rTiD08s5pR38c%2BnLsdGdLxZG%2BBg%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "d282521c69fa435bb40edfeb2fbaadaf",
-            "title": "Договори із спеціалістами.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/0211fef275004e2296362f74e393b958?Signature=0YCvpDIJ5pfB1Nih5PF54H3wk7akA6TRnzbDbC2VoZCFVm1NE%2FzugWS3t%2BvnjglYF1AY5QStpKf9okO7wvwZBQ%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "e34bbc5d386f46a180449dd90f3e08ec",
-            "title": "3 Наявність працівників відповідної кваліфікації.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/9d3c64471e9c44f399a4aaefb32b3be5?Signature=lSVxh8Sa56kwOeVTunXNUPduYKJckWZoFd%2BrGJA%2FDi3Km48d%2By3iJhdPAyTjXlijQOfynH56Lq%2BaE3cgl60mAA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "e3f68c0ed61e44a8ae23db4f5e053a4e",
-            "title": "6 Довідка про відстутність невиконанних договорів із Замовником.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/86b65231fe734513aaa7e36291d5f0bf?Signature=kcEcFBymWNxshoKKKSLmxTXgBuI%2FSeMKKwJsY7f4p89RkqdU9gY1UuTFslLzXMkz%2B%2BMVVHX3OmwNLBbuqUzqDg%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "eade328193f148eab525e4610edbb051",
-            "title": "Довідка про кваліфікацію специалістів.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/9c47829cbc1a4f328fbed6bab68ed42e?Signature=LMDR%2Bwt9NUO1tVkWdlLvQkx5Qy1IvQHoYCsf9gJLBaC9idiI5MwC28MI2b%2By9FsUnPN6gvlBkbjf9ar3chhAAg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "efa9e864d47b429dbf5b5c0dac3d58b4",
-            "title": "Банківська гарантія.zip",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/d823ba5c3b0a4cb29a6519a63e0e0d24?Signature=GVQBrB2CwkLay%2FhvoUCH2XvZhmgHe6UPyxw0p4CwBNy95x7wPyOxxVaRH0sq1bsNRWm8rXUeysYJOk4ew9SkAg%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "f11a0af6eb8f4d7392505e5ca2b2b704",
-            "title": "3 Підтвердження кваліфікації з посиланнями та скріншотами.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/81a649323121436d9468aa563db45002?Signature=XL72%2F1%2FSg4QrO2JrpnBgNfkidMWM%2FihFTd2jfww%2BcXB%2Fon3ASOG6KLGeTKCMi4lYu72uvVbcxYCWIqrCbS11Cw%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "f1456c331e5c49f48bfac5eefac43a40",
-            "title": "3 Скан-копії договорів цивільно-правового характеру.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/58aaf8dd8c13440cb26efc9cc3453a0e?Signature=5Qb7RfK96PX8ttq3i2jwuWwIXXtFOjGxeLWYoDbMJ8zYZCrklbv83d78%2FcsL7HrHPUb4eg5lUg2T7Jn94DgDBg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "cd26a554f34e4fccb2661c89a3c50bde"
-          },
-          {
-            "id": "f18492b3cfd14d6ebb7b258fdc32d972",
-            "title": "Довідка про досвід виконання аналогічних договорів.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/b067dcfc80754191b2fc303692a8ce3d?Signature=ko48fdNO2P6uCfEUNr46EdiS%2Foq1fiN%2FkPk%2BBTOEUjONlW0WkzkMmbA8C8RmoF1rSXn7v7ffNLv571i36aI4AA%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
-          },
-          {
-            "id": "f55f79e8e9204d5babe607a975308f19",
-            "title": "7 Довідка щодо відсутності підстав для відхилення пропозиції учасника.pdf",
-            "modified": "1633695655",
-            "url": "https://public.docs.openprocurement.org/get/ff3c4e15cbf54f63a5480130f64046a9?Signature=AcHcL5rpAKQj06JAVSUmJ8qZcloyctyI3VJ8p16nHPO9J%2BI%2BpkHAnRiMDYLhcbw7KymFJekk3nRGnUxEys6YAQ%3D%3D&KeyID=52462340",
-            "document_of": "eligibility",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "fbc6985bd1fa490086293c0336e3691b",
-            "title": "ЗТД-1.docx",
-            "modified": "1631614094",
-            "url": "https://public.docs.openprocurement.org/get/731c50a7b2fd4ea79ebfcbd1ba95bd3a?Signature=6IK3fGe8NI97ul72t5bp%2FnqmEMnHzQswQGGxR%2BNr5imViGgbrH5uNCLgfME9LA2ixKBqOnxXRGWhfBRrTIfwAg%3D%3D&KeyID=52462340",
-            "document_of": "tender",
-            "related_item": "c7f501761b0b4503bab59d31fddd1ee8"
-          },
-          {
-            "id": "fd669de8e9994d73b84fd692208fd370",
-            "title": "edr_identification.yaml",
-            "modified": "1633701683",
-            "url": "https://public.docs.openprocurement.org/get/b9e284cd5f7a4c148b2bb7e0c204a368?Signature=ZOU58170z0kRRd4L%2BI%2Fq1bB9O4XXs5eEcPnWOPq78VJzfLJZ3KjUfQcJnDlnhC8lNwXzgPlc6RPxFJuZiboRBA%3D%3D&KeyID=52462340",
-            "document_of": "qualification",
-            "related_item": "f9a01b6bd2a447dc83748e5abeecc1c7"
-          },
-          {
-            "id": "fda65bcfca3b40e48611349eeacb90fb",
-            "title": "Підписаний_gar1214.pdf",
-            "modified": "1633699449",
-            "url": "https://public.docs.openprocurement.org/get/4db755ca3d37419f827efe6fbf03b0f1?Signature=%2FyDD1ffY7nuL%2FNPTEnYCM1hzbI8v5LsISVg%2BNiGZTPjjpcgLeF0TAkxVA6Oug%2BnbiPLeMsJUh3UcS8nJVq7IAg%3D%3D&KeyID=52462340",
-            "document_of": "bid",
-            "related_item": "59f367b0e195494799f6ce56686b53b2"
+            "type_name": "Аукціон",
+            "tender": "c83cdd1b61fb448b8bdfc50467aabed2",
+            "lot": "2dd349e8138c4f6cb7d72c8c09e62fae",
+            "type": "auction",
+            "start": "2025-03-24T11:26:27+0000",
+            "end": null
           }
         ]
       }
     }
-  ],
-  "stats":
-  {
-    "query_time": 0.021136999130249023
-  },
-  "quota":
-  {
-    "used": 0,
-    "max": -1,
-    "key_used": 0
-  }
+  ]
 }
