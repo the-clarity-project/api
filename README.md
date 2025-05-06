@@ -60,7 +60,8 @@
 
 #### ФОП
 * **[fop.byname](fop.info.md#fopbyname)** - повертає перелік ФОП за точним збігом по ПІБ;
-* **[fop.info](fop.info.md#fopinfo)** - повертає інформацію по ФОП за його id;
+* **[fop.bycode](fop.info.md#fopbycode)** - повертає інформацію по ФОП за його кодом РНОКПП;
+* **[fop.info](fop.info.md#fopinfo)** - повертає інформацію по ФОП за його внутрішнім ідентифікатором;
 
 #### Закупівлі
 * **[tender.search](tender.search.md#tendersearch)** - пошук закупівель;

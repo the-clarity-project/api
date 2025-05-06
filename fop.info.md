@@ -9,16 +9,12 @@
 
 [Документація](edr.info.md#edrsearch)
 
-## fop.bycode
-
-Метод повертає актуальну інформацію про ФОП за його РНОКПП.
-
 ##### Приклад запиту:
 [https://clarity-project.info/api/fop.bycode/1234567890?key=xxx]()
 
 ## fop.byname
 
-Метод повертає перелік ФОП за **точним співпадінням** по ПІБ.
+Метод повертає перелік ФОП за **точним збігом** по ПІБ.
 
 ##### Приклад запиту:
 [https://clarity-project.info/api/fop.byname?name=ГОНЧАРУК ОЛЕКСІЙ ВАЛЕРІЙОВИЧ&key=xxx]()
@@ -70,3 +66,13 @@ https://clarity-project.info/api/fop.info/c0a7d2d26cfc02758f1492aab0fca287?key=x
 
 ##### Приклад відповіді:
 [examples/fop.info.json](examples/fop.info.json)
+
+## fop.bycode
+
+Метод повертає актуальну інформацію про ФОП за його кодом РНОКПП.
+
+##### Приклад запиту:
+https://clarity-project.info/api/fop.bycode/3463007276?key=xxx
+
+##### Приклад відповіді:
+[examples/fop.bycode.json](examples/fop.bycode.json)
