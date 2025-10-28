@@ -72,4 +72,4 @@
 * **[persons.info](persons.search.md#personsinfo)** - інформація за ПІБ;
 
 #### Інше
-* **treasury.transactions**
+* **[passport.check](passport.check.md)** - переварка номеру паспорта на (не-)дійсність;
