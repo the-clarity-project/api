@@ -18,7 +18,7 @@
   виїзду за кордон (Міністерство внутрішніх справ України).
 
 ##### Приклад запиту:
-https://stage.clarity-project.info/api/passport.check?key=xxx&passport=AH777896,
+https://clarity-project.info/api/passport.check?key=xxx&passport=AH777896,
 де **AH777896** - номер паспорта.
 
 Серію паспорта можна вказувати як кирилицею, так і латинкою. 
