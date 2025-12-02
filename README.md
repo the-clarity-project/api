@@ -50,7 +50,7 @@
 * **[edr.info/{edrpou}/licenses](edr.info.md#edrinfolicenses)** - повертає ліцензії обраної юо/фоп;
 * **[edr.info/{edrpou}/persons](edr.info.md#edrinfopersons)** - повертає пов'язаних осіб;
 * **[edr.info/{edrpou}/treasury](edr.info.md#edrinfotreasury)** - повертає інформацію по транзакціям Казначейства;
-* **[edr.info/{edrpou}/vehicles](edr.info.md#edrinfovehicles)** - інформація про автотранспорт у користуванні;
+* **[edr.info/{edrpou}/used-vehicles](edr.info.md#edrinfoused-vehicles)** - інформація про автотранспорт у користуванні;
 * **[edr.finances/{edrpou}](edr.finances.md)** - фінансові звіти юридичних осіб;
 * **[edr.history](edr.info.md#edrhistory)** - повертає історію змін;
 * **[edr.relations](edr.info.md#)** - повертає зв'язки;
