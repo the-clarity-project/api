@@ -282,12 +282,12 @@ https://clarity-project.info/api/edr.info/26510514/treasury?key=xxxx,
     * **PayeeAmount, PayeeCount** - сума та кількість транзакцій, де ю/о отримувач коштів;
 
 
-## edr.info/vehicles
+## edr.info/used-vehicles
 
 Метод повертає інформацію автотранспорт у користуванні за кодом ЄДРПОУ.
 
 ##### Приклад запиту:
-https://clarity-project.info/api/edr.info/14360570/vehicles?key=xxx,
+https://clarity-project.info/api/edr.info/14360570/used-vehicles?key=xxx,
 де **14360570** - код за ЄДРПОУ.
 
 ##### Приклад відповіді:
