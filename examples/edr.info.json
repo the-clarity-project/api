@@ -125,17 +125,6 @@
   "isBuyer": true,
   "history": 4584,
   "licenses_count": 67,
-  "vat": {
-    "VatNumber": "143605704021",
-    "Name": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК ПРИВАТБАНК\"\"",
-    "DfsCode": "0402",
-    "RegDate": "1997-07-07",
-    "CancelDate": null,
-    "CancelReason": null,
-    "CancelOperation": null,
-    "Updated": "2021-07-23 03:40:15",
-    "Created": "2021-07-23 03:40:15"
-  },
   "tax_debt": {
     "value_total": 374.24,
     "value_local": 374.24,
