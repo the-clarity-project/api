@@ -11,7 +11,7 @@
 * **q** - пошуковий запит;
 
 ##### Приклад запиту:
-[https://clarity-project.info/api/edr.search/?q=шевченко&key=xxx]()
+[https://clarity-project.info/api/persons.search/?q=шевченко&key=xxx]()
 
 ##### Приклад відповіді:
 ```json
