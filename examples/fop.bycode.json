@@ -4,22 +4,26 @@
     "name": "ГАРАГУЦ ЯРОСЛАВ ВАЛЕРІЙОВИЧ",
     "address": "49024, ДНІПРОПЕТРОВСЬКА ОБЛ., М. ДНІПРО, ВУЛ. ГРІНЧЕНКА, БУД. 111",
     "address_parts": {
-      "hash": "e5a0c33a097b50a00383a124701ec2cb",
-      "full_address": "49024, ДНІПРОПЕТРОВСЬКА ОБЛ., М. ДНІПРО, ВУЛ. ГРІНЧЕНКА, БУД. 111",
-      "formatted_address": "49024, ДНІПРОПЕТРОВСЬКА область, місто ДНІПРО, вулиця ГРІНЧЕНКА, будинок 111",
       "postal_code": "49024",
-      "region": "ДНІПРОПЕТРОВСЬКА область",
+      "region": {
+        "name": "Дніпропетровська область",
+        "code": "UA12000000000090473"
+      },
       "district": null,
-      "locality": "ДНІПРО",
-      "localityType": "місто",
-      "street": "ГРІНЧЕНКА",
-      "streetType": "вулиця",
-      "building": "111",
-      "buildingType": "будинок",
+      "locality": {
+        "name": "ДНІПРО",
+        "type": "місто"
+      },
+      "street": {
+        "name": "ГРІНЧЕНКА",
+        "type": "вулиця"
+      },
+      "building": {
+        "name": "111",
+        "type": "будинок"
+      },
       "structure": null,
-      "structureType": null,
-      "apartment": null,
-      "apartmentType": null
+      "premises": null
     },
     "contact": "ГАРАГУЦ ЯРОСЛАВ ВАЛЕРІЙОВИЧ",
     "activity": [
@@ -81,24 +85,25 @@
     ],
     "status": "registered",
     "statusName": "Зареєстровано",
-    "updated": "1746569299",
+    "updated": "1778496216",
     "created": "1626082292",
     "registration": {
       "Date": 1551650400,
       "Number": "22240000000132650"
     },
-    "termination": null
+    "termination": null,
+    "contacts": {
+      "phone": "380639829717",
+      "fax": null,
+      "email": "legless@legl.es"
+    }
   },
   "stats": {
-    "query_time": 0.9596412181854248,
+    "query_time": 0.454957962036133,
     "quota": {
-      "used": 1,
-      "max": -1,
-      "key_used": 1,
-      "key": {
-        "queries": 1,
-        "limit": 1
-      }
+      "used": 17,
+      "max": 100,
+      "key_used": 2
     },
     "edr_update_status": true
   }
