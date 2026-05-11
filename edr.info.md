@@ -12,35 +12,42 @@
 * **page** - сторінка результатів;
 
 ##### Приклад запиту:
-[https://clarity-project.info/api/edr.search/?q=дп прозорро&key=xxx]()
+[https://clarity-project.info/api/edr.search/?q=кларіті&per_page=25&page=1&key=xxx]()
 
 ##### Приклад відповіді:
 ```json
 {
   "paginator": {
-    "total_found": "3",
+    "total_found": 253,
+    "per_page": 25,
     "current_page": 1,
-    "total_pages": 1
+    "total_pages": 11
   },
   "list": [
     {
-      "Edr": "02426097",
-      "Name": " ДП \"ПРОЗОРРО\"",
-      "Address": "Київська область, Київ, вул Бульварно-Кудрявська (Воровського), 22",
-      "Source": "edr",
-      "SourceName": "ЄДР",
-      "RecordType": "name",
-      "RecordTypeName": "Назва"
-      // ...
+      "Edr": "43007203",
+      "FopID": null,
+      "Name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КЛАРІТІ АПП\"",
+      "Address": "04214, місто КИЇВ, вулиця ПІВНІЧНА, будинок 3",
+      "Source": "edrpou"
     },
     {
-      "Edr": "42068925",
-      "Name": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"ПРОЗОРРО.ПРОДАЖІ\"",
-      "Address": "м. Київ, м. Київ, вул. Бульварно-Кудрявська, 22",
-      // ...
+      "Edr": "41609828",
+      "FopID": null,
+      "Name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КЛАРІТІ ФОРМ\"",
+      "Address": "03164, місто КИЇВ, вулиця ГЕНЕРАЛА НАУМОВА, будинок 23",
+      "Source": "edrpou"
     },
-    // ...
-  ]
+    ...
+  ],
+  "stats": {
+    "query_time": 0.223966836929321,
+    "quota": {
+      "used": 21,
+      "max": 100,
+      "key_used": 5
+    }
+  }
 }
 ```
 
