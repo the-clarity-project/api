@@ -73,6 +73,14 @@
 * **[tender.search](tender.search.md#tendersearch)** - пошук закупівель;
 * **[tender.ids](tender.search.md#tenderids)** - пошук ідентифікаторів закупівель;
 
+#### Суди
+* **[court.case](court.case.md#courtcase)** - повертає інформацію про судову справу за її номером;
+* **[court.decision/{doc_id}](court.case.md#courtdecision)** - повертає судове рішення;
+* **[edr.info/{edrpou}/court-cases](court.case.md#edrinfocourt-cases)** - повертає судові справи юридичної особи;
+* **[edr.info/{edrpou}/court-decisions](court.case.md#edrinfocourt-decisions)** - повертає судові рішення, 
+  в яких згадується юридична особа;
+* **[persons.info/{hash}/court-cases](court.case.md#personsinfocourt-cases)** - повертає судові справи фізичної особи;
+
 #### Фізичні особи
 * **[persons.search](persons.search.md#personssearch)** - пошук за ПІБ;
 * **[persons.info](persons.search.md#personsinfo)** - інформація за ПІБ;
