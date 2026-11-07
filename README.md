@@ -61,6 +61,13 @@
 * **[realty.list](realty.list.md)** - повертає нерухомість у власності
   фізичної чи юридичної особи за її кодом РНОКПП, ПІБ чи ЄДРПОУ.
 
+#### Виконавчі провадження
+* **[enforcement.info](enforcement.info.md#enforcementinfo)** - повертає виконавчі провадження за їх номерами;
+* **[edr.info/{edrpou}/enforcements](enforcement.info.md#edrinfoenforcements)** - повертає виконавчі провадження 
+  юридичної особи;
+* **[persons.info/{hash}/enforcements](enforcement.info.md#personsinfoenforcements)** - повертає виконавчі провадження 
+  фізичної особи;
+
 #### Податки
 * **[tax.info/{edrpou}](tax.info.md)** - повертає інформацію про платника податків за кодом ЄДРПОУ/РНОКПП;
 
