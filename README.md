@@ -84,5 +84,12 @@
 * **[persons.search](persons.search.md#personssearch)** - пошук за ПІБ;
 * **[persons.info](persons.search.md#personsinfo)** - інформація за ПІБ;
 
+#### Санкції
+* **[sanctions.search](sanctions.search.md#sanctionssearch)** - пошук у санкційних списках;
+* **[edr.info/{edrpou}/sanctions](sanctions.search.md#edrinfosanctions)** - перевірка юридичної особи 
+  та пов'язаних з нею фізичних осіб за санкційними списками;
+* **[persons.info/{hash}/sanctions](sanctions.search.md#personsinfosanctions)** - перевірка фізичної особи 
+  за санкційними списками;
+
 #### Інше
 * **[passport.check](passport.check.md)** - перевірка номеру паспорта на (не-)дійсність;
