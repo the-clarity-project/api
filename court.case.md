@@ -66,20 +66,28 @@ https://clarity-project.info/api/court.case?case=000/0000/23&page=1&key=xxx
         {
           "doc_id": 100000001,
           "cause_num": "000/0000/23",
-          "court_code": "0001",
-          "court_name": "Прикладний районний суд м. Києва",
-          "category_code": "40000",
-          "category_name": "Спори про стягнення заборгованості",
-          "judgment_code": "5",
-          "judgment_form": "Ухвала",
-          "justice_kind": "1",
-          "justice_kind_name": "Цивільне",
+          "court": {
+            "code": "0001",
+            "name": "Прикладний районний суд м. Києва"
+          },
+          "category": {
+            "code": "40000",
+            "name": "Спори про стягнення заборгованості"
+          },
+          "judgment_form": {
+            "code": "5",
+            "name": "Ухвала"
+          },
+          "justice_kind": {
+            "code": "1",
+            "name": "Цивільне"
+          },
           "judge": "Приклад П. І.",
-          "status": 1,
+          "is_text_published": true,
           "is_downloaded": true,
-          "adjudication_date": "2023-04-10",
-          "receipt_date": "2023-04-12",
-          "date_publ": "2023-04-13"
+          "decision_date": "2023-04-10",
+          "received_date": "2023-04-12",
+          "published_date": "2023-04-13"
         }
       ],
       "total": 1,
@@ -122,20 +130,28 @@ https://clarity-project.info/api/court.decision/100000001?key=xxx,
     "decision": {
       "doc_id": 100000001,
       "cause_num": "000/0000/23",
-      "court_code": "0001",
-      "court_name": "Прикладний районний суд м. Києва",
-      "category_code": "40000",
-      "category_name": "Спори про стягнення заборгованості",
-      "judgment_code": "5",
-      "judgment_form": "Ухвала",
-      "justice_kind": "1",
-      "justice_kind_name": "Цивільне",
+      "court": {
+        "code": "0001",
+        "name": "Прикладний районний суд м. Києва"
+      },
+      "category": {
+        "code": "40000",
+        "name": "Спори про стягнення заборгованості"
+      },
+      "judgment_form": {
+        "code": "5",
+        "name": "Ухвала"
+      },
+      "justice_kind": {
+        "code": "1",
+        "name": "Цивільне"
+      },
       "judge": "Приклад П. І.",
-      "status": 1,
+      "is_text_published": true,
       "is_downloaded": true,
-      "adjudication_date": "2023-04-10",
-      "receipt_date": "2023-04-12",
-      "date_publ": "2023-04-13"
+      "decision_date": "2023-04-10",
+      "received_date": "2023-04-12",
+      "published_date": "2023-04-13"
     },
     "text": "<p>Справа № 000/0000/23</p>\n<p>УХВАЛА</p>\n<p>ІМЕНЕМ УКРАЇНИ</p>\n<p>...</p>",
     "participants": [
@@ -261,20 +277,28 @@ https://clarity-project.info/api/edr.info/00000000/court-decisions?page=1&key=xx
       {
         "doc_id": 100000001,
         "cause_num": "000/0000/23",
-        "court_code": "0001",
-        "court_name": "Прикладний районний суд м. Києва",
-        "category_code": "40000",
-        "category_name": "Спори про стягнення заборгованості",
-        "judgment_code": "5",
-        "judgment_form": "Ухвала",
-        "justice_kind": "1",
-        "justice_kind_name": "Цивільне",
+        "court": {
+          "code": "0001",
+          "name": "Прикладний районний суд м. Києва"
+        },
+        "category": {
+          "code": "40000",
+          "name": "Спори про стягнення заборгованості"
+        },
+        "judgment_form": {
+          "code": "5",
+          "name": "Ухвала"
+        },
+        "justice_kind": {
+          "code": "1",
+          "name": "Цивільне"
+        },
         "judge": "Приклад П. І.",
-        "status": 1,
+        "is_text_published": true,
         "is_downloaded": true,
-        "adjudication_date": "2023-04-10",
-        "receipt_date": "2023-04-12",
-        "date_publ": "2023-04-13"
+        "decision_date": "2023-04-10",
+        "received_date": "2023-04-12",
+        "published_date": "2023-04-13"
       }
     ],
     "total": 1,
@@ -313,17 +337,20 @@ https://clarity-project.info/api/persons.info/00000000000000000000000000000000/c
 ## Судове рішення
 * `doc_id` - ідентифікатор рішення, використовується в методі [court.decision](#courtdecision);
 * `cause_num` - номер справи;
-* `court_code`, `court_name` - код та назва суду;
-* `category_code`, `category_name` - код та назва категорії справи;
-* `judgment_code`, `judgment_form` - код та назва форми рішення (наприклад, «Ухвала»);
-* `justice_kind`, `justice_kind_name` - код та назва форми судочинства (наприклад, «Цивільне»);
+* `court` - суд;
+* `category` - категорія справи;
+* `judgment_form` - форма рішення (наприклад, «Ухвала»);
+* `justice_kind` - форма судочинства (наприклад, «Цивільне»);
 * `judge` - суддя;
-* `status` - `0`, якщо текст рішення не був опублікований у формі відкритих даних, інакше `1`;
+* `is_text_published` - `false`, якщо текст рішення не був опублікований у формі відкритих даних;
 * `is_downloaded` - `true`, якщо текст рішення вже завантажено і його можна отримати 
   методом [court.decision](#courtdecision);
-* `adjudication_date` - дата ухвалення рішення;
-* `receipt_date` - дата надходження рішення;
-* `date_publ` - дата оприлюднення рішення;
+* `decision_date` - дата ухвалення рішення;
+* `received_date` - дата надходження рішення;
+* `published_date` - дата оприлюднення рішення;
+
+Поля `court`, `category`, `judgment_form` та `justice_kind` - об'єкти з полями `code` (код) 
+та `name` (назва, може бути `null`).
 
 Дати повертаються у форматі `YYYY-MM-DD`, `null` - якщо відсутні.
 
