@@ -43,6 +43,18 @@ https://clarity-project.info/api/tender.search?key=xxx
 Зверніть увагу: зазви фільтрів **відрізняються** від пошуку [через веб-інтерфейс](https://clarity-project.info/tenders).  
 
 * **offset** - використовується для пагінації, обирає, починаючи з якого результату повертати рядки. 
+* **sort** - сортування результатів, завжди за спаданням, за замовчуванням **Modified**:
+    * **Modified** - по даті оновлення;
+    * **Created** - по даті створення;
+    * **AwardDate** - по даті визначення переможця;
+    * **Value** - по ціні;
+    * **Economy** - по економії;
+    * **Lots** - по кількості лотів;
+    * **Bids** - по кількості пропозицій;
+    * **Tenderers** - по кількості учасників;
+    * **Disqualifications** - по кількості дискваліфікацій;
+    * **Contracts** - по кількості договорів;
+    * **ContractChanges** - по кількості додаткових угод;
 * **tender_id** - ідентифікатори закупівель (до 10 за запит);
 * **text** - повнотекстовий пошук за описом закупівлі;
 * **status** - стан закупівлі: 
@@ -81,8 +93,8 @@ https://clarity-project.info/api/tender.search?key=xxx
 * **value_min**, **value_max** - очікувана вартість;
 * **currency** - валюта;
 * **nonprice** - наявність нецінових критеріїв:
-    * **0** - без нецінових критеріїв;
-    * **1** - закупівлі з неціновими критеріями.
+    * **yes** - закупівлі з неціновими критеріями;
+    * **no** - без нецінових критеріїв;
 * **fin_source** - джерело фінансування:
     * **state** - Державний бюджет України;
     * **crimea** - Бюджет Автономної Республіки Крим;
@@ -99,6 +111,9 @@ https://clarity-project.info/api/tender.search?key=xxx
     * **works** - роботи;
     * **services** - рослуги;
     * **goods** - товари;
+* **market_product** - ідентифікатор товару Prozorro Market;
+* **market_profile** - ідентифікатор профілю Prozorro Market;
+* **market_category** - ідентифікатор категорії Prozorro Market;
 * **payment_type** - тип оплати:
     * **prepayment** - передоплата;
     * **postpayment** - післяплата;
@@ -141,11 +156,71 @@ https://clarity-project.info/api/tender.search?key=xxx
     * **negotiation.stateLegalServices** - Закупівля юридичних послуг;
     * **negotiation.quick** - Нагальна потреба;
 * **complaints** - наявність скарг до закупівлі:
-    * **0** - всі закупівлі;
-    * **1** - зі скаргами;
+    * **yes** - зі скаргами;
+    * **no** - без скарг;
 * **complaint_from** - ЄДРПОУ скаржника;
+* **monitorings** - наявність моніторингу:
+    * **yes** - з моніторингом;
+    * **no** - без моніторингу;
+* **monitoring_reason** - причина моніторингу:
+    * **indicator** - Індикатори ризиків;
+    * **authorities** - Інформація, отримана від органів влади;
+    * **media** - Повідомлення в ЗМІ;
+    * **fiscal** - Виявлені органом державного фінансового контролю ознаки порушення;
+    * **public** - Інформація від ГО;
+* **monitoring_status** - статус моніторингу:
+    * **declined** - Порушення не виявлені;
+    * **active** - Здійснення моніторингу;
+    * **addressed** - Виявлені порушення;
+    * **closed** - Завершено;
+* **contract_changes** - наявність додаткових угод:
+    * **yes** - з додатковими угодами;
+    * **no** - без додаткових угод;
 * **tender_period_from** та **tender_period_to** - кінцева дата подання пропозицій;
 * **award_date_from** та **award_date_to** - дата визначення переможця;
+* **guarantee** - забезпечення пропозицій:
+    * **yes** - з тендерним забезпеченням;
+    * **no** - без тендерного забезпечення;
+* **contract_security** - забезпечення виконання договору:
+    * **yes** - із забезпеченням;
+    * **no** - без забезпечення;
+* **qualification_criteria** - кваліфікаційні критерії:
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT** - Наявність обладнання, матеріально-технічної бази та технологій;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE** - Наявність працівників відповідної кваліфікації;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE** - Наявність досвіду виконання аналогічного договору;
+    * **CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING** - Наявність фінансової спроможності;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION** - Інформування про субпідрядників/співвиконавців;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.ENVIRONMENTAL_MANAGEMENT_MEASURES** - Відповідність екологічним нормам;
+* **exclusion_grounds** - підстави для відмови в участі:
+    * **CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION** - Наявність впливу на прийняття рішення замовника;
+    * **CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION** - Вчинення корупційних правопорушень;
+    * **CRITERION.EXCLUSION.CONVICTIONS.FRAUD** - Вчинення економічних правопорушень;
+    * **CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION** - Вчинення кримінальних правопорушень;
+    * **CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION** - Наявність зв'язку учасника з іншими учасниками процедури або замовником;
+    * **CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY** - Порушення справи про банкрутство;
+    * **CRITERION.EXCLUSION.NATIONAL.ANTI-CORRUPTION** - Наявність антикорупційної програми;
+    * **CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES** - Вчинення правопорушень, пов'язаних із застосуванням санкцій;
+    * **CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING** - Вчинення правопорушень, пов'язаних з використанням дитячої праці чи будь-якими формами торгівлі людьми;
+    * **CRITERION.EXCLUSION.CONTRIBUTIONS.PAYMENT_OF_TAXES** - Наявність заборгованості зі сплати податків і зборів;
+    * **CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION** - Наявність не виконаних зобов'язань за раніше укладеним договором;
+    * **CRITERION.EXCLUSION.NATIONAL.OTHER** - Наявність інших підстав для відмови в участі у процедурі закупівлі;
+* **other_requirements** - інші вимоги:
+    * **CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.LOCAL_ORIGIN_LEVEL** - Створення передумов для сталого розвитку та модернізації вітчизняної промисловості;
+    * **CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES** - Технічні, якісні та кількісні характеристики предмета закупівлі;
+    * **CRITERION.OTHER.BID.VALIDITY_PERIOD** - Строк дії тендерної пропозиції;
+    * **CRITERION.OTHER.BID.LANGUAGE** - Мова (мови) тендерної пропозиції;
+    * **CRITERION.OTHER.UKRAINE_FACILITY** - Вимоги до товару та переможця закупівлі, що проводиться в рамках проєкту Ukraine Facility;
+* **life_cycle_cost** - вартість життєвого циклу:
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.COST_OF_USE** - Витрати, пов'язані з користуванням, грн.;
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.MAINTENANCE_COST** - Витрати, пов'язані з обслуговуванням, грн.;
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.END_OF_LIFE_COST** - Витрати, пов'язані з завершенням користування, грн.;
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.ECOLOGICAL_COST** - Витрати, пов'язані з захистом навколишнього середовища, грн.;
+
+Параметри `qualification_criteria`, `exclusion_grounds`, `other_requirements` та `life_cycle_cost` приймають одне значення 
+або кілька у вигляді масиву, наприклад: `exclusion_grounds[]=CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY&exclusion_grounds[]=CRITERION.EXCLUSION.CONVICTIONS.FRAUD`.
+
+Якщо передано кілька критеріїв, у тому числі в різних параметрах, метод повертає лише закупівлі, в яких є всі вказані критерії.
+Невідомі значення цих параметрів, зокрема кілька значень через кому, ігноруються.
 
 ### Додаткові поля
 
