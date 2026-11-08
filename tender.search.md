@@ -146,6 +146,46 @@ https://clarity-project.info/api/tender.search?key=xxx
 * **complaint_from** - ЄДРПОУ скаржника;
 * **tender_period_from** та **tender_period_to** - кінцева дата подання пропозицій;
 * **award_date_from** та **award_date_to** - дата визначення переможця;
+* **contract_security** - забезпечення виконання договору:
+    * **yes** - із забезпеченням;
+    * **no** - без забезпечення;
+* **qualification_criteria** - кваліфікаційні критерії:
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT** - Наявність обладнання, матеріально-технічної бази та технологій;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE** - Наявність працівників відповідної кваліфікації;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE** - Наявність досвіду виконання аналогічного договору;
+    * **CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING** - Наявність фінансової спроможності;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION** - Інформування про субпідрядників/співвиконавців;
+    * **CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.ENVIRONMENTAL_MANAGEMENT_MEASURES** - Відповідність екологічним нормам;
+* **exclusion_grounds** - підстави для відмови в участі:
+    * **CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION** - Наявність впливу на прийняття рішення замовника;
+    * **CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION** - Вчинення корупційних правопорушень;
+    * **CRITERION.EXCLUSION.CONVICTIONS.FRAUD** - Вчинення економічних правопорушень;
+    * **CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION** - Вчинення кримінальних правопорушень;
+    * **CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION** - Наявність зв'язку учасника з іншими учасниками процедури або замовником;
+    * **CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY** - Порушення справи про банкрутство;
+    * **CRITERION.EXCLUSION.NATIONAL.ANTI-CORRUPTION** - Наявність антикорупційної програми;
+    * **CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES** - Вчинення правопорушень, пов'язаних із застосуванням санкцій;
+    * **CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING** - Вчинення правопорушень, пов'язаних з використанням дитячої праці чи будь-якими формами торгівлі людьми;
+    * **CRITERION.EXCLUSION.CONTRIBUTIONS.PAYMENT_OF_TAXES** - Наявність заборгованості зі сплати податків і зборів;
+    * **CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION** - Наявність не виконаних зобов'язань за раніше укладеним договором;
+    * **CRITERION.EXCLUSION.NATIONAL.OTHER** - Наявність інших підстав для відмови в участі у процедурі закупівлі;
+* **other_requirements** - інші вимоги:
+    * **CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.LOCAL_ORIGIN_LEVEL** - Створення передумов для сталого розвитку та модернізації вітчизняної промисловості;
+    * **CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES** - Технічні, якісні та кількісні характеристики предмета закупівлі;
+    * **CRITERION.OTHER.BID.VALIDITY_PERIOD** - Строк дії тендерної пропозиції;
+    * **CRITERION.OTHER.BID.LANGUAGE** - Мова (мови) тендерної пропозиції;
+    * **CRITERION.OTHER.UKRAINE_FACILITY** - Вимоги до товару та переможця закупівлі, що проводиться в рамках проєкту Ukraine Facility;
+* **life_cycle_cost** - вартість життєвого циклу:
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.COST_OF_USE** - Витрати, пов'язані з користуванням, грн.;
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.MAINTENANCE_COST** - Витрати, пов'язані з обслуговуванням, грн.;
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.END_OF_LIFE_COST** - Витрати, пов'язані з завершенням користування, грн.;
+    * **CRITERION.OTHER.LIFE_CYCLE_COST.ECOLOGICAL_COST** - Витрати, пов'язані з захистом навколишнього середовища, грн.;
+
+Параметри `qualification_criteria`, `exclusion_grounds`, `other_requirements` та `life_cycle_cost` приймають одне значення 
+або кілька у вигляді масиву, наприклад: `exclusion_grounds[]=CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY&exclusion_grounds[]=CRITERION.EXCLUSION.CONVICTIONS.FRAUD`.
+
+Якщо передано кілька критеріїв, у тому числі в різних параметрах, метод повертає лише закупівлі, в яких є всі вказані критерії.
+Невідомі значення, зокрема кілька значень через кому, ігноруються.
 
 ### Додаткові поля
 
