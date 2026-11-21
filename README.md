@@ -61,6 +61,11 @@
 * **[realty.list](realty.list.md)** - повертає нерухомість у власності
   фізичної чи юридичної особи за її кодом РНОКПП, ПІБ чи ЄДРПОУ.
 
+#### Будівництво
+* **[construction.search](construction.md#constructionsearch)** — пошук документів ДАБІ та показник участі компанії;
+* **[construction.document/{id}](construction.md#constructiondocumentid)** — картка документа за його хешем;
+* **[construction.examinators/{edrpou}](construction.md#constructionexaminatorsedrpou)** — записи про експертів, пов'язаних із компанією.
+
 #### Виконавчі провадження
 * **[enforcement.info](enforcement.info.md#enforcementinfo)** - повертає виконавчі провадження за їх номерами;
 * **[edr.info/{edrpou}/enforcements](enforcement.info.md#edrinfoenforcements)** - повертає виконавчі провадження 
